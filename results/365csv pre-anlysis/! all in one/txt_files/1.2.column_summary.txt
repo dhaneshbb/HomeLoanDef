@@ -1,0 +1,22 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_CURR                     int64           100001 - 456255                305811
+2     SK_ID_BUREAU                   int64           5000000 - 6843457              1716428
+3     DAYS_CREDIT                    int64           -2922 - 0                      2923
+4     CREDIT_DAY_OVERDUE             int64           0 - 2792                       942
+5     CNT_CREDIT_PROLONG             int64           0 - 9                          10
+6     DAYS_CREDIT_UPDATE             int64           -41947 - 372                   2982
+7     CREDIT_ACTIVE                  object          N/A                            4
+8     CREDIT_CURRENCY                object          N/A                            4
+9     CREDIT_TYPE                    object          N/A                            15
+10    DAYS_CREDIT_ENDDATE            float64         -42060.0 - 31199.0             14096
+11    DAYS_ENDDATE_FACT              float64         -42023.0 - 0.0                 2917
+12    AMT_CREDIT_MAX_OVERDUE         float64         0.0 - 115987185.0              68251
+13    AMT_CREDIT_SUM                 float64         0.0 - 585000000.0              236708
+14    AMT_CREDIT_SUM_DEBT            float64         -4705600.32 - 170100000.0      226537
+15    AMT_CREDIT_SUM_LIMIT           float64         -586406.115 - 4705600.32       51726
+16    AMT_CREDIT_SUM_OVERDUE         float64         0.0 - 3756681.0                1616
+17    AMT_ANNUITY                    float64         0.0 - 118453423.5              40321

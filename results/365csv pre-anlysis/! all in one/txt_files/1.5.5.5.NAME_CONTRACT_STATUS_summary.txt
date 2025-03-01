@@ -1,0 +1,9 @@
+| NAME_CONTRACT_STATUS   |   Count |   Percentage |
+|:-----------------------|--------:|-------------:|
+| Active                 | 3698436 |        96.31 |
+| Completed              |  128918 |         3.36 |
+| Signed                 |   11058 |         0.29 |
+| Demand                 |    1365 |         0.04 |
+| Sent proposal          |     513 |         0.01 |
+| Refused                |      17 |         0    |
+| Approved               |       5 |         0    |

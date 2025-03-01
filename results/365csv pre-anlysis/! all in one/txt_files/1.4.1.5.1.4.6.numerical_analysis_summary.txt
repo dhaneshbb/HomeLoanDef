@@ -1,0 +1,150 @@
+Numerical Variable Analysis Report
+========================================================================================================================
+
+
+### Analysis for 'SK_ID_PREV'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.00014e+07 |
+| Mean               |      1.90322e+06 |
+| Trimmed Mean (IQR) |      1.90322e+06 |
+| MAD                | 465327           |
+| Std                | 535847           |
+| Min                |      1e+06       |
+| 25%                |      1.4344e+06  |
+| 50%                |      1.89656e+06 |
+| 75%                |      2.36896e+06 |
+| Max                |      2.8435e+06  |
+| Mode               |      1.00026e+06 |
+| Range              |      1.8435e+06  |
+| IQR                | 934558           |
+| Variance           |      2.87132e+11 |
+| Skewness           |      0.0442292   |
+| Kurtosis           |     -1.21618     |
+
+
+### Analysis for 'SK_ID_CURR'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.00014e+07 |
+| Mean               | 278404           |
+| Trimmed Mean (IQR) | 278404           |
+| MAD                |  88972.4         |
+| Std                | 102764           |
+| Min                | 100001           |
+| 25%                | 189550           |
+| 50%                | 278654           |
+| 75%                | 367429           |
+| Max                | 456255           |
+| Mode               | 265042           |
+| Range              | 356254           |
+| IQR                | 177879           |
+| Variance           |      1.05604e+10 |
+| Skewness           |     -0.00312825  |
+| Kurtosis           |     -1.19684     |
+
+
+### Analysis for 'MONTHS_BALANCE'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   1.00014e+07 |
+| Mean               | -35.0126      |
+| Trimmed Mean (IQR) | -35.0126      |
+| MAD                |  22.0946      |
+| Std                |  26.0666      |
+| Min                | -96           |
+| 25%                | -54           |
+| 50%                | -28           |
+| 75%                | -13           |
+| Max                |  -1           |
+| Mode               | -10           |
+| Range              |  95           |
+| IQR                |  41           |
+| Variance           | 679.466       |
+| Skewness           |  -0.672777    |
+| Kurtosis           |  -0.710681    |
+
+
+### Analysis for 'CNT_INSTALMENT'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   9.97529e+06 |
+| Mean               |  17.0897      |
+| Trimmed Mean (IQR) |  15.2026      |
+| MAD                |   9.22114     |
+| Std                |  11.9951      |
+| Min                |   1           |
+| 25%                |  10           |
+| 50%                |  12           |
+| 75%                |  24           |
+| Max                |  92           |
+| Mode               |  12           |
+| Range              |  91           |
+| IQR                |  14           |
+| Variance           | 143.881       |
+| Skewness           |   1.60173     |
+| Kurtosis           |   2.44687     |
+
+
+### Analysis for 'CNT_INSTALMENT_FUTURE'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   9.97527e+06 |
+| Mean               |  10.4838      |
+| Trimmed Mean (IQR) |   8.17403     |
+| MAD                |   8.03584     |
+| Std                |  11.1091      |
+| Min                |   0           |
+| 25%                |   3           |
+| 50%                |   7           |
+| 75%                |  14           |
+| Max                |  85           |
+| Mode               |   0           |
+| Range              |  85           |
+| IQR                |  11           |
+| Variance           | 123.411       |
+| Skewness           |   1.84675     |
+| Kurtosis           |   3.71333     |
+
+
+### Analysis for 'SK_DPD'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              |     1.00014e+07 |
+| Mean               |    11.6069      |
+| Trimmed Mean (IQR) |     0           |
+| MAD                |    22.6964      |
+| Std                |   132.714       |
+| Min                |     0           |
+| 25%                |     0           |
+| 50%                |     0           |
+| 75%                |     0           |
+| Max                |  4231           |
+| Mode               |     0           |
+| Range              |  4231           |
+| IQR                |     0           |
+| Variance           | 17613           |
+| Skewness           |    14.8991      |
+| Kurtosis           |   255.322       |
+
+
+### Analysis for 'SK_DPD_DEF'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              |    1.00014e+07 |
+| Mean               |    0.654468    |
+| Trimmed Mean (IQR) |    0           |
+| MAD                |    1.29402     |
+| Std                |   32.7625      |
+| Min                |    0           |
+| 25%                |    0           |
+| 50%                |    0           |
+| 75%                |    0           |
+| Max                | 3595           |
+| Mode               |    0           |
+| Range              | 3595           |
+| IQR                |    0           |
+| Variance           | 1073.38        |
+| Skewness           |   66.3399      |
+| Kurtosis           | 4836.55        |
+

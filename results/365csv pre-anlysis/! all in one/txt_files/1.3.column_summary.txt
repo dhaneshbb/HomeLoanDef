@@ -1,0 +1,8 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_BUREAU                   int64           5001709 - 6842888              817395
+2     MONTHS_BALANCE                 int64           -96 - 0                        97
+3     STATUS                         object          N/A                            8

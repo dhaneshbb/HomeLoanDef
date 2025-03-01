@@ -1,0 +1,18 @@
+### Consolidated Categorical Variable Analysis ###
+========================================================================================================================
+
+
+### Name_contract_status Summary ###
+
+
+| NAME_CONTRACT_STATUS   |   Count |   Percentage |
+|:-----------------------|--------:|-------------:|
+| Active                 | 9151119 |        91.5  |
+| Completed              |  744883 |         7.45 |
+| Signed                 |   87260 |         0.87 |
+| Demand                 |    7065 |         0.07 |
+| Returned to the store  |    5461 |         0.05 |
+| Approved               |    4917 |         0.05 |
+| Amortized debt         |     636 |         0.01 |
+| Canceled               |      15 |         0    |
+| XNA                    |       2 |         0    |

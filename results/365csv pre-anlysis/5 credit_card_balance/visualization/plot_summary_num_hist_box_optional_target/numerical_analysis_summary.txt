@@ -1,0 +1,465 @@
+Numerical Variable Analysis Report
+========================================================================================================================
+
+
+### Analysis for 'SK_ID_PREV'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      3.84031e+06 |
+| Mean               |      1.9045e+06  |
+| Trimmed Mean (IQR) |      1.9045e+06  |
+| MAD                | 466513           |
+| Std                | 536469           |
+| Min                |      1.00002e+06 |
+| 25%                |      1.43438e+06 |
+| 50%                |      1.89712e+06 |
+| 75%                |      2.36933e+06 |
+| Max                |      2.8435e+06  |
+| Mode               |      1.0001e+06  |
+| Range              |      1.84348e+06 |
+| IQR                | 934943           |
+| Variance           |      2.87799e+11 |
+| Skewness           |      0.0383855   |
+| Kurtosis           |     -1.21961     |
+
+
+### Analysis for 'SK_ID_CURR'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      3.84031e+06 |
+| Mean               | 278324           |
+| Trimmed Mean (IQR) | 278324           |
+| MAD                |  88986.7         |
+| Std                | 102704           |
+| Min                | 100006           |
+| 25%                | 189517           |
+| 50%                | 278396           |
+| 75%                | 367580           |
+| Max                | 456250           |
+| Mode               | 186401           |
+| Range              | 356244           |
+| IQR                | 178063           |
+| Variance           |      1.05482e+10 |
+| Skewness           |     -0.00183384  |
+| Kurtosis           |     -1.19948     |
+
+
+### Analysis for 'MONTHS_BALANCE'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   3.84031e+06 |
+| Mean               | -34.5219      |
+| Trimmed Mean (IQR) | -34.5219      |
+| MAD                |  22.8851      |
+| Std                |  26.6678      |
+| Min                | -96           |
+| 25%                | -55           |
+| 50%                | -28           |
+| 75%                | -11           |
+| Max                |  -1           |
+| Mode               |  -4           |
+| Range              |  95           |
+| IQR                |  44           |
+| Variance           | 711.169       |
+| Skewness           |  -0.59804     |
+| Kurtosis           |  -0.856152    |
+
+
+### Analysis for 'AMT_BALANCE'  ###
+| Statistic          |           Overall |
+|--------------------|-------------------|
+| Count              |       3.84031e+06 |
+| Mean               |   58300.2         |
+| Trimmed Mean (IQR) |   36728.1         |
+| MAD                |   74044.5         |
+| Std                |  106307           |
+| Min                | -420250           |
+| 25%                |       0           |
+| 50%                |       0           |
+| 75%                |   89046.7         |
+| Max                |       1.5059e+06  |
+| Mode               |       0           |
+| Range              |       1.92615e+06 |
+| IQR                |   89046.7         |
+| Variance           |       1.13012e+10 |
+| Skewness           |       2.92017     |
+| Kurtosis           |      11.7787      |
+
+
+### Analysis for 'AMT_CREDIT_LIMIT_ACTUAL'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      3.84031e+06 |
+| Mean               | 153808           |
+| Trimmed Mean (IQR) | 107503           |
+| MAD                | 113623           |
+| Std                | 165146           |
+| Min                |      0           |
+| 25%                |  45000           |
+| 50%                | 112500           |
+| 75%                | 180000           |
+| Max                |      1.35e+06    |
+| Mode               |      0           |
+| Range              |      1.35e+06    |
+| IQR                | 135000           |
+| Variance           |      2.72731e+10 |
+| Skewness           |      2.05973     |
+| Kurtosis           |      5.18405     |
+
+
+### Analysis for 'AMT_DRAWINGS_ATM_CURRENT'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              |     3.0905e+06  |
+| Mean               |  5961.32        |
+| Trimmed Mean (IQR) |     0           |
+| MAD                | 10471.2         |
+| Std                | 28225.7         |
+| Min                | -6827.31        |
+| 25%                |     0           |
+| 50%                |     0           |
+| 75%                |     0           |
+| Max                |     2.115e+06   |
+| Mode               |     0           |
+| Range              |     2.12183e+06 |
+| IQR                |     0           |
+| Variance           |     7.96689e+08 |
+| Skewness           |     9.66484     |
+| Kurtosis           |   164.928       |
+
+
+### Analysis for 'AMT_DRAWINGS_CURRENT'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              |     3.84031e+06 |
+| Mean               |  7433.39        |
+| Trimmed Mean (IQR) |     0           |
+| MAD                | 12841.5         |
+| Std                | 33846.1         |
+| Min                | -6211.62        |
+| 25%                |     0           |
+| 50%                |     0           |
+| 75%                |     0           |
+| Max                |     2.2871e+06  |
+| Mode               |     0           |
+| Range              |     2.29331e+06 |
+| IQR                |     0           |
+| Variance           |     1.14556e+09 |
+| Skewness           |    10.0656      |
+| Kurtosis           |   184.274       |
+
+
+### Analysis for 'AMT_DRAWINGS_OTHER_CURRENT'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              |    3.0905e+06  |
+| Mean               |  288.17        |
+| Trimmed Mean (IQR) |    0           |
+| MAD                |  574.039       |
+| Std                | 8201.99        |
+| Min                |    0           |
+| 25%                |    0           |
+| 50%                |    0           |
+| 75%                |    0           |
+| Max                |    1.52985e+06 |
+| Mode               |    0           |
+| Range              |    1.52985e+06 |
+| IQR                |    0           |
+| Variance           |    6.72726e+07 |
+| Skewness           |   50.5704      |
+| Kurtosis           | 3628.01        |
+
+
+### Analysis for 'AMT_DRAWINGS_POS_CURRENT'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              |     3.0905e+06  |
+| Mean               |  2968.8         |
+| Trimmed Mean (IQR) |     0           |
+| MAD                |  5470.28        |
+| Std                | 20796.9         |
+| Min                |     0           |
+| 25%                |     0           |
+| 50%                |     0           |
+| 75%                |     0           |
+| Max                |     2.23927e+06 |
+| Mode               |     0           |
+| Range              |     2.23927e+06 |
+| IQR                |     0           |
+| Variance           |     4.32511e+08 |
+| Skewness           |    19.4211      |
+| Kurtosis           |   713.988       |
+
+
+### Analysis for 'AMT_INST_MIN_REGULARITY'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      3.53508e+06 |
+| Mean               |   3540.2         |
+| Trimmed Mean (IQR) |   2800.62        |
+| MAD                |   4141.94        |
+| Std                |   5600.15        |
+| Min                |      0           |
+| 25%                |      0           |
+| 50%                |      0           |
+| 75%                |   6633.91        |
+| Max                | 202882           |
+| Mode               |      0           |
+| Range              | 202882           |
+| IQR                |   6633.91        |
+| Variance           |      3.13617e+07 |
+| Skewness           |      2.49443     |
+| Kurtosis           |     10.1825      |
+
+
+### Analysis for 'AMT_PAYMENT_CURRENT'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              |     3.07232e+06 |
+| Mean               | 10280.5         |
+| Trimmed Mean (IQR) |  4124.71        |
+| MAD                | 12071.1         |
+| Std                | 36078.1         |
+| Min                |     0           |
+| 25%                |   152.37        |
+| 50%                |  2702.7         |
+| 75%                |  9000           |
+| Max                |     4.28921e+06 |
+| Mode               |     0           |
+| Range              |     4.28921e+06 |
+| IQR                |  8847.63        |
+| Variance           |     1.30163e+09 |
+| Skewness           |    12.9906      |
+| Kurtosis           |   315.757       |
+
+
+### Analysis for 'AMT_PAYMENT_TOTAL_CURRENT'  ###
+| Statistic          |         Overall |
+|--------------------|-----------------|
+| Count              |     3.84031e+06 |
+| Mean               |  7588.86        |
+| Trimmed Mean (IQR) |  2551.22        |
+| MAD                | 10149.6         |
+| Std                | 32006           |
+| Min                |     0           |
+| 25%                |     0           |
+| 50%                |     0           |
+| 75%                |  6750           |
+| Max                |     4.27832e+06 |
+| Mode               |     0           |
+| Range              |     4.27832e+06 |
+| IQR                |  6750           |
+| Variance           |     1.02438e+09 |
+| Skewness           |    14.4797      |
+| Kurtosis           |   393.256       |
+
+
+### Analysis for 'AMT_RECEIVABLE_PRINCIPAL'  ###
+| Statistic          |           Overall |
+|--------------------|-------------------|
+| Count              |       3.84031e+06 |
+| Mean               |   55965.9         |
+| Trimmed Mean (IQR) |   35012.7         |
+| MAD                |   71230.9         |
+| Std                |  102534           |
+| Min                | -423306           |
+| 25%                |       0           |
+| 50%                |       0           |
+| 75%                |   85359.2         |
+| Max                |       1.47232e+06 |
+| Mode               |       0           |
+| Range              |       1.89562e+06 |
+| IQR                |   85359.2         |
+| Variance           |       1.05131e+10 |
+| Skewness           |       2.94232     |
+| Kurtosis           |      11.9585      |
+
+
+### Analysis for 'AMT_RECIVABLE'  ###
+| Statistic          |           Overall |
+|--------------------|-------------------|
+| Count              |       3.84031e+06 |
+| Mean               |   58088.8         |
+| Trimmed Mean (IQR) |   36631.5         |
+| MAD                |   73872.2         |
+| Std                |  105965           |
+| Min                | -420250           |
+| 25%                |       0           |
+| 50%                |       0           |
+| 75%                |   88899.5         |
+| Max                |       1.49334e+06 |
+| Mode               |       0           |
+| Range              |       1.91359e+06 |
+| IQR                |   88899.5         |
+| Variance           |       1.12287e+10 |
+| Skewness           |       2.91317     |
+| Kurtosis           |      11.7196      |
+
+
+### Analysis for 'AMT_TOTAL_RECEIVABLE'  ###
+| Statistic          |           Overall |
+|--------------------|-------------------|
+| Count              |       3.84031e+06 |
+| Mean               |   58098.3         |
+| Trimmed Mean (IQR) |   36642.3         |
+| MAD                |   73882           |
+| Std                |  105972           |
+| Min                | -420250           |
+| 25%                |       0           |
+| 50%                |       0           |
+| 75%                |   88914.5         |
+| Max                |       1.49334e+06 |
+| Mode               |       0           |
+| Range              |       1.91359e+06 |
+| IQR                |   88914.5         |
+| Variance           |       1.123e+10   |
+| Skewness           |       2.91268     |
+| Kurtosis           |      11.7159      |
+
+
+### Analysis for 'CNT_DRAWINGS_ATM_CURRENT'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              |  3.0905e+06 |
+| Mean               |  0.309449   |
+| Trimmed Mean (IQR) |  0          |
+| MAD                |  0.533833   |
+| Std                |  1.1004     |
+| Min                |  0          |
+| 25%                |  0          |
+| 50%                |  0          |
+| 75%                |  0          |
+| Max                | 51          |
+| Mode               |  0          |
+| Range              | 51          |
+| IQR                |  0          |
+| Variance           |  1.21088    |
+| Skewness           |  6.90666    |
+| Kurtosis           | 81.5494     |
+
+
+### Analysis for 'CNT_DRAWINGS_CURRENT'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   3.84031e+06 |
+| Mean               |   0.703144    |
+| Trimmed Mean (IQR) |   0           |
+| MAD                |   1.18278     |
+| Std                |   3.19035     |
+| Min                |   0           |
+| 25%                |   0           |
+| 50%                |   0           |
+| 75%                |   0           |
+| Max                | 165           |
+| Mode               |   0           |
+| Range              | 165           |
+| IQR                |   0           |
+| Variance           |  10.1783      |
+| Skewness           |  10.6353      |
+| Kurtosis           | 177.928       |
+
+
+### Analysis for 'CNT_DRAWINGS_OTHER_CURRENT'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |    3.0905e+06 |
+| Mean               |    0.0048125  |
+| Trimmed Mean (IQR) |    0          |
+| MAD                |    0.0095851  |
+| Std                |    0.0826386  |
+| Min                |    0          |
+| 25%                |    0          |
+| 50%                |    0          |
+| 75%                |    0          |
+| Max                |   12          |
+| Mode               |    0          |
+| Range              |   12          |
+| IQR                |    0          |
+| Variance           |    0.00682914 |
+| Skewness           |   26.3238     |
+| Kurtosis           | 1253.26       |
+
+
+### Analysis for 'CNT_DRAWINGS_POS_CURRENT'  ###
+| Statistic          |      Overall |
+|--------------------|--------------|
+| Count              |   3.0905e+06 |
+| Mean               |   0.559479   |
+| Trimmed Mean (IQR) |   0          |
+| MAD                |   1.02305    |
+| Std                |   3.24065    |
+| Min                |   0          |
+| 25%                |   0          |
+| 50%                |   0          |
+| 75%                |   0          |
+| Max                | 165          |
+| Mode               |   0          |
+| Range              | 165          |
+| IQR                |   0          |
+| Variance           |  10.5018     |
+| Skewness           |  11.3526     |
+| Kurtosis           | 192.551      |
+
+
+### Analysis for 'CNT_INSTALMENT_MATURE_CUM'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   3.53508e+06 |
+| Mean               |  20.8251      |
+| Trimmed Mean (IQR) |  19.7655      |
+| MAD                |  16.2197      |
+| Std                |  20.0515      |
+| Min                |   0           |
+| 25%                |   4           |
+| 50%                |  15           |
+| 75%                |  32           |
+| Max                | 120           |
+| Mode               |   0           |
+| Range              | 120           |
+| IQR                |  28           |
+| Variance           | 402.062       |
+| Skewness           |   1.07559     |
+| Kurtosis           |   0.640329    |
+
+
+### Analysis for 'SK_DPD'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              |    3.84031e+06 |
+| Mean               |    9.28367     |
+| Trimmed Mean (IQR) |    0           |
+| MAD                |   18.2211      |
+| Std                |   97.5157      |
+| Min                |    0           |
+| 25%                |    0           |
+| 50%                |    0           |
+| 75%                |    0           |
+| Max                | 3260           |
+| Mode               |    0           |
+| Range              | 3260           |
+| IQR                |    0           |
+| Variance           | 9509.31        |
+| Skewness           |   12.947       |
+| Kurtosis           |  190.373       |
+
+
+### Analysis for 'SK_DPD_DEF'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              |    3.84031e+06 |
+| Mean               |    0.331622    |
+| Trimmed Mean (IQR) |    0           |
+| MAD                |    0.647814    |
+| Std                |   21.4792      |
+| Min                |    0           |
+| 25%                |    0           |
+| 50%                |    0           |
+| 75%                |    0           |
+| Max                | 3260           |
+| Mode               |    0           |
+| Range              | 3260           |
+| IQR                |    0           |
+| Variance           |  461.357       |
+| Skewness           |   89.8304      |
+| Kurtosis           | 9007.74        |
+

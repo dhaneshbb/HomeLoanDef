@@ -1,0 +1,297 @@
+Numerical Variable Analysis Report
+========================================================================================================================
+
+
+### Analysis for 'SK_ID_CURR'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.71643e+06 |
+| Mean               | 278215           |
+| Trimmed Mean (IQR) | 278215           |
+| MAD                |  89172.4         |
+| Std                | 102939           |
+| Min                | 100001           |
+| 25%                | 188867           |
+| 50%                | 278055           |
+| 75%                | 367426           |
+| Max                | 456255           |
+| Mode               | 120860           |
+| Range              | 356254           |
+| IQR                | 178559           |
+| Variance           |      1.05963e+10 |
+| Skewness           |      0.00106289  |
+| Kurtosis           |     -1.20278     |
+
+
+### Analysis for 'SK_ID_BUREAU'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.71643e+06 |
+| Mean               |      5.92443e+06 |
+| Trimmed Mean (IQR) |      5.92443e+06 |
+| MAD                | 460811           |
+| Std                | 532266           |
+| Min                |      5e+06       |
+| 25%                |      5.46395e+06 |
+| 50%                |      5.9263e+06  |
+| 75%                |      6.38568e+06 |
+| Max                |      6.84346e+06 |
+| Mode               |      5e+06       |
+| Range              |      1.84346e+06 |
+| IQR                | 921728           |
+| Variance           |      2.83307e+11 |
+| Skewness           |     -0.00749783  |
+| Kurtosis           |     -1.19902     |
+
+
+### Analysis for 'DAYS_CREDIT'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.71643e+06 |
+| Mean               |  -1142.11        |
+| Trimmed Mean (IQR) |  -1142.11        |
+| MAD                |    665.485       |
+| Std                |    795.165       |
+| Min                |  -2922           |
+| 25%                |  -1666           |
+| 50%                |   -987           |
+| 75%                |   -474           |
+| Max                |      0           |
+| Mode               |   -364           |
+| Range              |   2922           |
+| IQR                |   1192           |
+| Variance           | 632287           |
+| Skewness           |     -0.582349    |
+| Kurtosis           |     -0.735445    |
+
+
+### Analysis for 'CREDIT_DAY_OVERDUE'  ###
+| Statistic          |        Overall |
+|--------------------|----------------|
+| Count              |    1.71643e+06 |
+| Mean               |    0.818167    |
+| Trimmed Mean (IQR) |    0           |
+| MAD                |    1.63231     |
+| Std                |   36.5444      |
+| Min                |    0           |
+| 25%                |    0           |
+| 50%                |    0           |
+| 75%                |    0           |
+| Max                | 2792           |
+| Mode               |    0           |
+| Range              | 2792           |
+| IQR                |    0           |
+| Variance           | 1335.5         |
+| Skewness           |   55.931       |
+| Kurtosis           | 3374.48        |
+
+
+### Analysis for 'DAYS_CREDIT_ENDDATE'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.61088e+06 |
+| Mean               |    510.517       |
+| Trimmed Mean (IQR) |   -433.277       |
+| MAD                |   2019.89        |
+| Std                |   4994.22        |
+| Min                | -42060           |
+| 25%                |  -1138           |
+| 50%                |   -330           |
+| 75%                |    474           |
+| Max                |  31199           |
+| Mode               |      0           |
+| Range              |  73259           |
+| IQR                |   1612           |
+| Variance           |      2.49422e+07 |
+| Skewness           |      5.12713     |
+| Kurtosis           |     28.1803      |
+
+
+### Analysis for 'DAYS_ENDDATE_FACT'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.08278e+06 |
+| Mean               |  -1017.44        |
+| Trimmed Mean (IQR) |  -1017.4         |
+| MAD                |    590.622       |
+| Std                |    714.011       |
+| Min                | -42023           |
+| 25%                |  -1489           |
+| 50%                |   -897           |
+| 75%                |   -425           |
+| Max                |      0           |
+| Mode               |   -329           |
+| Range              |  42023           |
+| IQR                |   1064           |
+| Variance           | 509811           |
+| Skewness           |     -0.774754    |
+| Kurtosis           |      9.40919     |
+
+
+### Analysis for 'AMT_CREDIT_MAX_OVERDUE'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              | 591940           |
+| Mean               |   3825.42        |
+| Trimmed Mean (IQR) |      0           |
+| MAD                |   6325.17        |
+| Std                | 206032           |
+| Min                |      0           |
+| 25%                |      0           |
+| 50%                |      0           |
+| 75%                |      0           |
+| Max                |      1.15987e+08 |
+| Mode               |      0           |
+| Range              |      1.15987e+08 |
+| IQR                |      0           |
+| Variance           |      4.2449e+10  |
+| Skewness           |    470.914       |
+| Kurtosis           | 245697           |
+
+
+### Analysis for 'CNT_CREDIT_PROLONG'  ###
+| Statistic          |       Overall |
+|--------------------|---------------|
+| Count              |   1.71643e+06 |
+| Mean               |   0.00641041  |
+| Trimmed Mean (IQR) |   0           |
+| MAD                |   0.0127527   |
+| Std                |   0.0962239   |
+| Min                |   0           |
+| 25%                |   0           |
+| 50%                |   0           |
+| 75%                |   0           |
+| Max                |   9           |
+| Mode               |   0           |
+| Range              |   9           |
+| IQR                |   0           |
+| Variance           |   0.00925904  |
+| Skewness           |  20.3193      |
+| Kurtosis           | 615.439       |
+
+
+### Analysis for 'AMT_CREDIT_SUM'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.71642e+06 |
+| Mean               | 354995           |
+| Trimmed Mean (IQR) | 160297           |
+| MAD                | 381207           |
+| Std                |      1.14981e+06 |
+| Min                |      0           |
+| 25%                |  51300           |
+| 50%                | 125518           |
+| 75%                | 315000           |
+| Max                |      5.85e+08    |
+| Mode               |      0           |
+| Range              |      5.85e+08    |
+| IQR                | 263700           |
+| Variance           |      1.32207e+12 |
+| Skewness           |    124.586       |
+| Kurtosis           |  49316           |
+
+
+### Analysis for 'AMT_CREDIT_SUM_DEBT'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.45876e+06 |
+| Mean               | 137085           |
+| Trimmed Mean (IQR) |   6024.72        |
+| MAD                | 212831           |
+| Std                | 677401           |
+| Min                |     -4.7056e+06  |
+| 25%                |      0           |
+| 50%                |      0           |
+| 75%                |  40153.5         |
+| Max                |      1.701e+08   |
+| Mode               |      0           |
+| Range              |      1.74806e+08 |
+| IQR                |  40153.5         |
+| Variance           |      4.58872e+11 |
+| Skewness           |     36.4145      |
+| Kurtosis           |   5673.43        |
+
+
+### Analysis for 'AMT_CREDIT_SUM_LIMIT'  ###
+| Statistic          |           Overall |
+|--------------------|-------------------|
+| Count              |       1.12465e+06 |
+| Mean               |    6229.51        |
+| Trimmed Mean (IQR) |       0           |
+| MAD                |   11787.6         |
+| Std                |   45032           |
+| Min                | -586406           |
+| 25%                |       0           |
+| 50%                |       0           |
+| 75%                |       0           |
+| Max                |       4.7056e+06  |
+| Mode               |       0           |
+| Range              |       5.29201e+06 |
+| IQR                |       0           |
+| Variance           |       2.02788e+09 |
+| Skewness           |      18.0269      |
+| Kurtosis           |     796.096       |
+
+
+### Analysis for 'AMT_CREDIT_SUM_OVERDUE'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.71643e+06 |
+| Mean               |     37.9128      |
+| Trimmed Mean (IQR) |      0           |
+| MAD                |     75.667       |
+| Std                |   5937.65        |
+| Min                |      0           |
+| 25%                |      0           |
+| 50%                |      0           |
+| 75%                |      0           |
+| Max                |      3.75668e+06 |
+| Mode               |      0           |
+| Range              |      3.75668e+06 |
+| IQR                |      0           |
+| Variance           |      3.52557e+07 |
+| Skewness           |    403.242       |
+| Kurtosis           | 211837           |
+
+
+### Analysis for 'DAYS_CREDIT_UPDATE'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              |      1.71643e+06 |
+| Mean               |   -593.748       |
+| Trimmed Mean (IQR) |   -520.289       |
+| MAD                |    521.38        |
+| Std                |    720.747       |
+| Min                | -41947           |
+| 25%                |   -908           |
+| 50%                |   -395           |
+| 75%                |    -33           |
+| Max                |    372           |
+| Mode               |     -7           |
+| Range              |  42319           |
+| IQR                |    875           |
+| Variance           | 519477           |
+| Skewness           |    -11.335       |
+| Kurtosis           |    596.374       |
+
+
+### Analysis for 'AMT_ANNUITY'  ###
+| Statistic          |          Overall |
+|--------------------|------------------|
+| Count              | 489637           |
+| Mean               |  15712.8         |
+| Trimmed Mean (IQR) |   5570.58        |
+| MAD                |  20394.6         |
+| Std                | 325827           |
+| Min                |      0           |
+| 25%                |      0           |
+| 50%                |      0           |
+| 75%                |  13500           |
+| Max                |      1.18453e+08 |
+| Mode               |      0           |
+| Range              |      1.18453e+08 |
+| IQR                |  13500           |
+| Variance           |      1.06163e+11 |
+| Skewness           |    212.543       |
+| Kurtosis           |  58560.7         |
+

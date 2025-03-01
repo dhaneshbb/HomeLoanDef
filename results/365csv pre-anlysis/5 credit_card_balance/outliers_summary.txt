@@ -1,0 +1,27 @@
+
+=== Outliers Summary ===
+
+|   Index | Column                     |   Outlier Count | Percentage   |
+|---------|----------------------------|-----------------|--------------|
+|       0 | SK_ID_PREV                 |               0 | 0.00%        |
+|       1 | SK_ID_CURR                 |               0 | 0.00%        |
+|       2 | MONTHS_BALANCE             |               0 | 0.00%        |
+|       3 | AMT_BALANCE                |          248146 | 6.46%        |
+|       4 | AMT_CREDIT_LIMIT_ACTUAL    |          404927 | 10.54%       |
+|       5 | AMT_DRAWINGS_ATM_CURRENT   |          424778 | 11.06%       |
+|       6 | AMT_DRAWINGS_CURRENT       |          616869 | 16.06%       |
+|       7 | AMT_DRAWINGS_OTHER_CURRENT |           12333 | 0.32%        |
+|       8 | AMT_DRAWINGS_POS_CURRENT   |          264901 | 6.90%        |
+|       9 | AMT_INST_MIN_REGULARITY    |          124489 | 3.24%        |
+|      10 | AMT_PAYMENT_CURRENT        |          282428 | 7.35%        |
+|      11 | AMT_PAYMENT_TOTAL_CURRENT  |          324742 | 8.46%        |
+|      12 | AMT_RECEIVABLE_PRINCIPAL   |          250529 | 6.52%        |
+|      13 | AMT_RECIVABLE              |          247510 | 6.45%        |
+|      14 | AMT_TOTAL_RECEIVABLE       |          247473 | 6.44%        |
+|      15 | CNT_DRAWINGS_ATM_CURRENT   |          424778 | 11.06%       |
+|      16 | CNT_DRAWINGS_CURRENT       |          610360 | 15.89%       |
+|      17 | CNT_DRAWINGS_OTHER_CURRENT |           12808 | 0.33%        |
+|      18 | CNT_DRAWINGS_POS_CURRENT   |          264902 | 6.90%        |
+|      19 | CNT_INSTALMENT_MATURE_CUM  |           58845 | 1.53%        |
+|      20 | SK_DPD                     |          153355 | 3.99%        |
+|      21 | SK_DPD_DEF                 |           89340 | 2.33%        |

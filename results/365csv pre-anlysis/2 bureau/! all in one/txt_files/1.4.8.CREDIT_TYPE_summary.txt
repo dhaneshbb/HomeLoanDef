@@ -1,0 +1,17 @@
+| CREDIT_TYPE                                  |   Count |   Percentage |
+|:---------------------------------------------|--------:|-------------:|
+| Consumer credit                              | 1251615 |        72.92 |
+| Credit card                                  |  402195 |        23.43 |
+| Car loan                                     |   27690 |         1.61 |
+| Mortgage                                     |   18391 |         1.07 |
+| Microloan                                    |   12413 |         0.72 |
+| Loan for business development                |    1975 |         0.12 |
+| Another type of loan                         |    1017 |         0.06 |
+| Unknown type of loan                         |     555 |         0.03 |
+| Loan for working capital replenishment       |     469 |         0.03 |
+| Cash loan (non-earmarked)                    |      56 |         0    |
+| Real estate loan                             |      27 |         0    |
+| Loan for the purchase of equipment           |      19 |         0    |
+| Loan for purchase of shares (margin lending) |       4 |         0    |
+| Mobile operator loan                         |       1 |         0    |
+| Interbank credit                             |       1 |         0    |

@@ -1,0 +1,28 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_PREV                     int64           1000018 - 2843496              104307
+2     SK_ID_CURR                     int64           100006 - 456250                103558
+3     MONTHS_BALANCE                 int64           -96 - -1                       96
+4     AMT_CREDIT_LIMIT_ACTUAL        int64           0 - 1350000                    181
+5     CNT_DRAWINGS_CURRENT           int64           0 - 165                        129
+6     SK_DPD                         int64           0 - 3260                       917
+7     SK_DPD_DEF                     int64           0 - 3260                       378
+8     AMT_BALANCE                    float64         -420250.185 - 1505902.185      1347904
+9     AMT_DRAWINGS_ATM_CURRENT       float64         -6827.31 - 2115000.0           2267
+10    AMT_DRAWINGS_CURRENT           float64         -6211.62 - 2287098.315         187005
+11    AMT_DRAWINGS_OTHER_CURRENT     float64         0.0 - 1529847.0                1832
+12    AMT_DRAWINGS_POS_CURRENT       float64         0.0 - 2239274.16               168748
+13    AMT_INST_MIN_REGULARITY        float64         0.0 - 202882.005               312266
+14    AMT_PAYMENT_CURRENT            float64         0.0 - 4289207.445              163209
+15    AMT_PAYMENT_TOTAL_CURRENT      float64         0.0 - 4278315.69               182957
+16    AMT_RECEIVABLE_PRINCIPAL       float64         -423305.82 - 1472316.795       1195839
+17    AMT_RECIVABLE                  float64         -420250.185 - 1493338.185      1338878
+18    AMT_TOTAL_RECEIVABLE           float64         -420250.185 - 1493338.185      1339008
+19    CNT_DRAWINGS_ATM_CURRENT       float64         0.0 - 51.0                     44
+20    CNT_DRAWINGS_OTHER_CURRENT     float64         0.0 - 12.0                     11
+21    CNT_DRAWINGS_POS_CURRENT       float64         0.0 - 165.0                    133
+22    CNT_INSTALMENT_MATURE_CUM      float64         0.0 - 120.0                    121
+23    NAME_CONTRACT_STATUS           object          N/A                            7

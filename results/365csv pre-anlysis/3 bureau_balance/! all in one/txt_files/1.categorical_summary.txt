@@ -1,0 +1,9 @@
+Categorical Summary:
+
+| Statistic      | STATUS   |
+|----------------|----------|
+| Count          | 27299925 |
+| Unique         | 8        |
+| Top            | C        |
+| Frequency      | 13646993 |
+| Top Percentage | 49.99%   |

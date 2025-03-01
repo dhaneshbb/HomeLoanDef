@@ -1,0 +1,26 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name    | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|----------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | SK_ID_PREV     | int64       |         936325 |               0 |                    0 | No Missing Values        |
+|  1 | SK_ID_CURR     | int64       |         337252 |               0 |                    0 | No Missing Values        |
+|  2 | MONTHS_BALANCE | int64       |             96 |               0 |                    0 | No Missing Values        |
+|  3 | SK_DPD         | int64       |           3400 |               0 |                    0 | No Missing Values        |
+|  4 | SK_DPD_DEF     | int64       |           2307 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: float64
+
+|    | Column Name           | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-----------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | CNT_INSTALMENT        | float64     |             73 |           26071 |             0.260675 | Min (0-5%)               |
+|  1 | CNT_INSTALMENT_FUTURE | float64     |             79 |           26087 |             0.260835 | Min (0-5%)               |
+
+Overview for Data Type: object
+
+|    | Column Name          | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|----------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | NAME_CONTRACT_STATUS | object      |              9 |               0 |                    0 | No Missing Values        |

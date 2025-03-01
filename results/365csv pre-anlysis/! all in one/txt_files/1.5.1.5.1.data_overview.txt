@@ -1,0 +1,41 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name             | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | SK_ID_PREV              | int64       |         104307 |               0 |                    0 | No Missing Values        |
+|  1 | SK_ID_CURR              | int64       |         103558 |               0 |                    0 | No Missing Values        |
+|  2 | MONTHS_BALANCE          | int64       |             96 |               0 |                    0 | No Missing Values        |
+|  3 | AMT_CREDIT_LIMIT_ACTUAL | int64       |            181 |               0 |                    0 | No Missing Values        |
+|  4 | CNT_DRAWINGS_CURRENT    | int64       |            129 |               0 |                    0 | No Missing Values        |
+|  5 | SK_DPD                  | int64       |            917 |               0 |                    0 | No Missing Values        |
+|  6 | SK_DPD_DEF              | int64       |            378 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: float64
+
+|    | Column Name                | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|----------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | AMT_BALANCE                | float64     |        1347904 |               0 |              0       | No Missing Values        |
+|  1 | AMT_DRAWINGS_ATM_CURRENT   | float64     |           2267 |          749816 |             19.5249  | Moderate (5-20%)         |
+|  2 | AMT_DRAWINGS_CURRENT       | float64     |         187005 |               0 |              0       | No Missing Values        |
+|  3 | AMT_DRAWINGS_OTHER_CURRENT | float64     |           1832 |          749816 |             19.5249  | Moderate (5-20%)         |
+|  4 | AMT_DRAWINGS_POS_CURRENT   | float64     |         168748 |          749816 |             19.5249  | Moderate (5-20%)         |
+|  5 | AMT_INST_MIN_REGULARITY    | float64     |         312266 |          305236 |              7.94821 | Moderate (5-20%)         |
+|  6 | AMT_PAYMENT_CURRENT        | float64     |         163209 |          767988 |             19.9981  | Moderate (5-20%)         |
+|  7 | AMT_PAYMENT_TOTAL_CURRENT  | float64     |         182957 |               0 |              0       | No Missing Values        |
+|  8 | AMT_RECEIVABLE_PRINCIPAL   | float64     |        1195839 |               0 |              0       | No Missing Values        |
+|  9 | AMT_RECIVABLE              | float64     |        1338878 |               0 |              0       | No Missing Values        |
+| 10 | AMT_TOTAL_RECEIVABLE       | float64     |        1339008 |               0 |              0       | No Missing Values        |
+| 11 | CNT_DRAWINGS_ATM_CURRENT   | float64     |             44 |          749816 |             19.5249  | Moderate (5-20%)         |
+| 12 | CNT_DRAWINGS_OTHER_CURRENT | float64     |             11 |          749816 |             19.5249  | Moderate (5-20%)         |
+| 13 | CNT_DRAWINGS_POS_CURRENT   | float64     |            133 |          749816 |             19.5249  | Moderate (5-20%)         |
+| 14 | CNT_INSTALMENT_MATURE_CUM  | float64     |            121 |          305236 |              7.94821 | Moderate (5-20%)         |
+
+Overview for Data Type: object
+
+|    | Column Name          | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|----------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | NAME_CONTRACT_STATUS | object      |              7 |               0 |                    0 | No Missing Values        |

@@ -1,0 +1,127 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_CURR                     int64           100002 - 456255                307511
+2     TARGET                         int64           0 - 1                          2
+3     CNT_CHILDREN                   int64           0 - 19                         15
+4     DAYS_BIRTH                     int64           -25229 - -7489                 17460
+5     DAYS_EMPLOYED                  int64           -17912 - 365243                12574
+6     DAYS_ID_PUBLISH                int64           -7197 - 0                      6168
+7     FLAG_MOBIL                     int64           0 - 1                          2
+8     FLAG_EMP_PHONE                 int64           0 - 1                          2
+9     FLAG_WORK_PHONE                int64           0 - 1                          2
+10    FLAG_CONT_MOBILE               int64           0 - 1                          2
+11    FLAG_PHONE                     int64           0 - 1                          2
+12    FLAG_EMAIL                     int64           0 - 1                          2
+13    REGION_RATING_CLIENT           int64           1 - 3                          3
+14    REGION_RATING_CLIENT_W_CITY    int64           1 - 3                          3
+15    HOUR_APPR_PROCESS_START        int64           0 - 23                         24
+16    REG_REGION_NOT_LIVE_REGION     int64           0 - 1                          2
+17    REG_REGION_NOT_WORK_REGION     int64           0 - 1                          2
+18    LIVE_REGION_NOT_WORK_REGION    int64           0 - 1                          2
+19    REG_CITY_NOT_LIVE_CITY         int64           0 - 1                          2
+20    REG_CITY_NOT_WORK_CITY         int64           0 - 1                          2
+21    LIVE_CITY_NOT_WORK_CITY        int64           0 - 1                          2
+22    FLAG_DOCUMENT_2                int64           0 - 1                          2
+23    FLAG_DOCUMENT_3                int64           0 - 1                          2
+24    FLAG_DOCUMENT_4                int64           0 - 1                          2
+25    FLAG_DOCUMENT_5                int64           0 - 1                          2
+26    FLAG_DOCUMENT_6                int64           0 - 1                          2
+27    FLAG_DOCUMENT_7                int64           0 - 1                          2
+28    FLAG_DOCUMENT_8                int64           0 - 1                          2
+29    FLAG_DOCUMENT_9                int64           0 - 1                          2
+30    FLAG_DOCUMENT_10               int64           0 - 1                          2
+31    FLAG_DOCUMENT_11               int64           0 - 1                          2
+32    FLAG_DOCUMENT_12               int64           0 - 1                          2
+33    FLAG_DOCUMENT_13               int64           0 - 1                          2
+34    FLAG_DOCUMENT_14               int64           0 - 1                          2
+35    FLAG_DOCUMENT_15               int64           0 - 1                          2
+36    FLAG_DOCUMENT_16               int64           0 - 1                          2
+37    FLAG_DOCUMENT_17               int64           0 - 1                          2
+38    FLAG_DOCUMENT_18               int64           0 - 1                          2
+39    FLAG_DOCUMENT_19               int64           0 - 1                          2
+40    FLAG_DOCUMENT_20               int64           0 - 1                          2
+41    FLAG_DOCUMENT_21               int64           0 - 1                          2
+42    NAME_CONTRACT_TYPE             object          N/A                            2
+43    CODE_GENDER                    object          N/A                            3
+44    FLAG_OWN_CAR                   object          N/A                            2
+45    FLAG_OWN_REALTY                object          N/A                            2
+46    NAME_TYPE_SUITE                object          N/A                            7
+47    NAME_INCOME_TYPE               object          N/A                            8
+48    NAME_EDUCATION_TYPE            object          N/A                            5
+49    NAME_FAMILY_STATUS             object          N/A                            6
+50    NAME_HOUSING_TYPE              object          N/A                            6
+51    OCCUPATION_TYPE                object          N/A                            18
+52    WEEKDAY_APPR_PROCESS_START     object          N/A                            7
+53    ORGANIZATION_TYPE              object          N/A                            58
+54    FONDKAPREMONT_MODE             object          N/A                            4
+55    HOUSETYPE_MODE                 object          N/A                            3
+56    WALLSMATERIAL_MODE             object          N/A                            7
+57    EMERGENCYSTATE_MODE            object          N/A                            2
+58    AMT_INCOME_TOTAL               float64         25650.0 - 117000000.0          2548
+59    AMT_CREDIT                     float64         45000.0 - 4050000.0            5603
+60    AMT_ANNUITY                    float64         1615.5 - 258025.5              13672
+61    AMT_GOODS_PRICE                float64         40500.0 - 4050000.0            1002
+62    REGION_POPULATION_RELATIVE     float64         0.00029 - 0.072508             81
+63    DAYS_REGISTRATION              float64         -24672.0 - 0.0                 15688
+64    OWN_CAR_AGE                    float64         0.0 - 91.0                     62
+65    CNT_FAM_MEMBERS                float64         1.0 - 20.0                     17
+66    EXT_SOURCE_1                   float64         0.0145681324124455 - 0.962692770561306 114584
+67    EXT_SOURCE_2                   float64         8.173616518884397e-08 - 0.8549996664047012 119831
+68    EXT_SOURCE_3                   float64         0.0005272652387098 - 0.8960095494948396 814
+69    APARTMENTS_AVG                 float64         0.0 - 1.0                      2339
+70    BASEMENTAREA_AVG               float64         0.0 - 1.0                      3780
+71    YEARS_BEGINEXPLUATATION_AVG    float64         0.0 - 1.0                      285
+72    YEARS_BUILD_AVG                float64         0.0 - 1.0                      149
+73    COMMONAREA_AVG                 float64         0.0 - 1.0                      3181
+74    ELEVATORS_AVG                  float64         0.0 - 1.0                      257
+75    ENTRANCES_AVG                  float64         0.0 - 1.0                      285
+76    FLOORSMAX_AVG                  float64         0.0 - 1.0                      403
+77    FLOORSMIN_AVG                  float64         0.0 - 1.0                      305
+78    LANDAREA_AVG                   float64         0.0 - 1.0                      3527
+79    LIVINGAPARTMENTS_AVG           float64         0.0 - 1.0                      1868
+80    LIVINGAREA_AVG                 float64         0.0 - 1.0                      5199
+81    NONLIVINGAPARTMENTS_AVG        float64         0.0 - 1.0                      386
+82    NONLIVINGAREA_AVG              float64         0.0 - 1.0                      3290
+83    APARTMENTS_MODE                float64         0.0 - 1.0                      760
+84    BASEMENTAREA_MODE              float64         0.0 - 1.0                      3841
+85    YEARS_BEGINEXPLUATATION_MODE   float64         0.0 - 1.0                      221
+86    YEARS_BUILD_MODE               float64         0.0 - 1.0                      154
+87    COMMONAREA_MODE                float64         0.0 - 1.0                      3128
+88    ELEVATORS_MODE                 float64         0.0 - 1.0                      26
+89    ENTRANCES_MODE                 float64         0.0 - 1.0                      30
+90    FLOORSMAX_MODE                 float64         0.0 - 1.0                      25
+91    FLOORSMIN_MODE                 float64         0.0 - 1.0                      25
+92    LANDAREA_MODE                  float64         0.0 - 1.0                      3563
+93    LIVINGAPARTMENTS_MODE          float64         0.0 - 1.0                      736
+94    LIVINGAREA_MODE                float64         0.0 - 1.0                      5301
+95    NONLIVINGAPARTMENTS_MODE       float64         0.0 - 1.0                      167
+96    NONLIVINGAREA_MODE             float64         0.0 - 1.0                      3327
+97    APARTMENTS_MEDI                float64         0.0 - 1.0                      1148
+98    BASEMENTAREA_MEDI              float64         0.0 - 1.0                      3772
+99    YEARS_BEGINEXPLUATATION_MEDI   float64         0.0 - 1.0                      245
+100   YEARS_BUILD_MEDI               float64         0.0 - 1.0                      151
+101   COMMONAREA_MEDI                float64         0.0 - 1.0                      3202
+102   ELEVATORS_MEDI                 float64         0.0 - 1.0                      46
+103   ENTRANCES_MEDI                 float64         0.0 - 1.0                      46
+104   FLOORSMAX_MEDI                 float64         0.0 - 1.0                      49
+105   FLOORSMIN_MEDI                 float64         0.0 - 1.0                      47
+106   LANDAREA_MEDI                  float64         0.0 - 1.0                      3560
+107   LIVINGAPARTMENTS_MEDI          float64         0.0 - 1.0                      1097
+108   LIVINGAREA_MEDI                float64         0.0 - 1.0                      5281
+109   NONLIVINGAPARTMENTS_MEDI       float64         0.0 - 1.0                      214
+110   NONLIVINGAREA_MEDI             float64         0.0 - 1.0                      3323
+111   TOTALAREA_MODE                 float64         0.0 - 1.0                      5116
+112   OBS_30_CNT_SOCIAL_CIRCLE       float64         0.0 - 348.0                    33
+113   DEF_30_CNT_SOCIAL_CIRCLE       float64         0.0 - 34.0                     10
+114   OBS_60_CNT_SOCIAL_CIRCLE       float64         0.0 - 344.0                    33
+115   DEF_60_CNT_SOCIAL_CIRCLE       float64         0.0 - 24.0                     9
+116   DAYS_LAST_PHONE_CHANGE         float64         -4292.0 - 0.0                  3773
+117   AMT_REQ_CREDIT_BUREAU_HOUR     float64         0.0 - 4.0                      5
+118   AMT_REQ_CREDIT_BUREAU_DAY      float64         0.0 - 9.0                      9
+119   AMT_REQ_CREDIT_BUREAU_WEEK     float64         0.0 - 8.0                      9
+120   AMT_REQ_CREDIT_BUREAU_MON      float64         0.0 - 27.0                     24
+121   AMT_REQ_CREDIT_BUREAU_QRT      float64         0.0 - 261.0                    11
+122   AMT_REQ_CREDIT_BUREAU_YEAR     float64         0.0 - 25.0                     25

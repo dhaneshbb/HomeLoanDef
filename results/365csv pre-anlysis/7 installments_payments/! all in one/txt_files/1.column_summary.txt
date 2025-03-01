@@ -1,0 +1,13 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_PREV                     int64           1000001 - 2843499              997752
+2     SK_ID_CURR                     int64           100001 - 456255                339587
+3     NUM_INSTALMENT_NUMBER          int64           1 - 277                        277
+4     NUM_INSTALMENT_VERSION         float64         0.0 - 178.0                    65
+5     DAYS_INSTALMENT                float64         -2922.0 - -1.0                 2922
+6     DAYS_ENTRY_PAYMENT             float64         -4921.0 - -1.0                 3039
+7     AMT_INSTALMENT                 float64         0.0 - 3771487.845              902539
+8     AMT_PAYMENT                    float64         0.0 - 3771487.845              944235

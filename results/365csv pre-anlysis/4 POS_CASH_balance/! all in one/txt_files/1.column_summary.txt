@@ -1,0 +1,13 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_PREV                     int64           1000001 - 2843499              936325
+2     SK_ID_CURR                     int64           100001 - 456255                337252
+3     MONTHS_BALANCE                 int64           -96 - -1                       96
+4     SK_DPD                         int64           0 - 4231                       3400
+5     SK_DPD_DEF                     int64           0 - 3595                       2307
+6     CNT_INSTALMENT                 float64         1.0 - 92.0                     73
+7     CNT_INSTALMENT_FUTURE          float64         0.0 - 85.0                     79
+8     NAME_CONTRACT_STATUS           object          N/A                            9

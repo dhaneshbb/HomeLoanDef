@@ -1,0 +1,13 @@
+
+=== Outliers Summary ===
+
+|   Index | Column                 |   Outlier Count | Percentage   |
+|---------|------------------------|-----------------|--------------|
+|       0 | SK_ID_PREV             |               0 | 0.00%        |
+|       1 | SK_ID_CURR             |               0 | 0.00%        |
+|       2 | NUM_INSTALMENT_VERSION |          417616 | 3.07%        |
+|       3 | NUM_INSTALMENT_NUMBER  |         1886320 | 13.86%       |
+|       4 | DAYS_INSTALMENT        |               0 | 0.00%        |
+|       5 | DAYS_ENTRY_PAYMENT     |               1 | 0.00%        |
+|       6 | AMT_INSTALMENT         |         1120800 | 8.24%        |
+|       7 | AMT_PAYMENT            |         1130094 | 8.31%        |

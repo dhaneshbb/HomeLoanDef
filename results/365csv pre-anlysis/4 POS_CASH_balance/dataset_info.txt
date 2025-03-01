@@ -1,0 +1,29 @@
+
+=== Dataset Information ===
+
+| Info                      | Details                         |
+|---------------------------|---------------------------------|
+| Total Shape               | 10001358 rows, 8 columns        |
+| Range Index               | 0 to 10001357, 10001358 entries |
+| Columns                   | 8 columns                       |
+| Memory Usage              | 1192493244 bytes                |
+| Total Duplicated Rows     | 0 duplicates                    |
+| Missing Values Count      | 52158 missing values            |
+| Missing Values Percentage | 0.07% missing values            |
+
+Data types with counts of columns:
+
+| Data Type   |   Count of Columns |
+|-------------|--------------------|
+| int64       |                  5 |
+| float64     |                  2 |
+| object      |                  1 |
+
+Numerical and Categorical Variable Counts:
+
+| Variable Type         |   Count |
+|-----------------------|---------|
+| Numerical Variables   |       7 |
+| Categorical Variables |       1 |
+
+No duplicated rows found.

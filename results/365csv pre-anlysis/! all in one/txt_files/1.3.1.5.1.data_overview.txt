@@ -1,0 +1,16 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name    | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|----------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | SK_ID_BUREAU   | int64       |         817395 |               0 |                    0 | No Missing Values        |
+|  1 | MONTHS_BALANCE | int64       |             97 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: object
+
+|    | Column Name   | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | STATUS        | object      |              8 |               0 |                    0 | No Missing Values        |

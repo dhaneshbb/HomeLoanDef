@@ -1,0 +1,9 @@
+Categorical Summary:
+
+| Statistic      | NAME_CONTRACT_STATUS   |
+|----------------|------------------------|
+| Count          | 10001358               |
+| Unique         | 9                      |
+| Top            | Active                 |
+| Frequency      | 9151119                |
+| Top Percentage | 91.50%                 |

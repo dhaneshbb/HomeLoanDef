@@ -1,0 +1,21 @@
+Summary Statistics for All Numeric Columns:
+
+| Statistic                   |     SK_ID_BUREAU |   MONTHS_BALANCE |
+|-----------------------------|------------------|------------------|
+| Count                       |      2.72999e+07 |      2.72999e+07 |
+| Unique                      | 817395           |     97           |
+| Mean                        |      6.0363e+06  |    -30.7417      |
+| Std                         | 492349           |     23.8645      |
+| Min                         |      5.00171e+06 |    -96           |
+| 25%                         |      5.73093e+06 |    -46           |
+| 50%                         |      6.07082e+06 |    -25           |
+| 75%                         |      6.43195e+06 |    -11           |
+| Max                         |      6.84289e+06 |      0           |
+| Mode                        |      5.00171e+06 |     -1           |
+| Range                       |      1.84118e+06 |     96           |
+| IQR                         | 701018           |     35           |
+| Variance                    |      2.42407e+11 |    569.515       |
+| Skewness                    |     -0.372188    |     -0.76069     |
+| Kurtosis                    |     -0.737966    |     -0.316143    |
+| Shapiro-Wilk Test Statistic |      0.982959    |      0.906123    |
+| Shapiro-Wilk Test p-value   |      0           |      0           |

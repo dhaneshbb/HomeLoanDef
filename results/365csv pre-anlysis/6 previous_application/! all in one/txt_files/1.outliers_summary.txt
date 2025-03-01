@@ -1,0 +1,26 @@
+
+=== Outliers Summary ===
+
+|   Index | Column                    |   Outlier Count | Percentage   |
+|---------|---------------------------|-----------------|--------------|
+|       0 | SK_ID_PREV                |               0 | 0.00%        |
+|       1 | SK_ID_CURR                |               0 | 0.00%        |
+|       2 | AMT_ANNUITY               |           82762 | 4.96%        |
+|       3 | AMT_APPLICATION           |          208019 | 12.45%       |
+|       4 | AMT_CREDIT                |          179989 | 10.78%       |
+|       5 | AMT_DOWN_PAYMENT          |           64402 | 3.86%        |
+|       6 | AMT_GOODS_PRICE           |          145715 | 8.72%        |
+|       7 | HOUR_APPR_PROCESS_START   |            1639 | 0.10%        |
+|       8 | NFLAG_LAST_APPL_IN_DAY    |            5900 | 0.35%        |
+|       9 | RATE_DOWN_PAYMENT         |           43162 | 2.58%        |
+|      10 | RATE_INTEREST_PRIMARY     |             234 | 0.01%        |
+|      11 | RATE_INTEREST_PRIVILEGED  |              72 | 0.00%        |
+|      12 | DAYS_DECISION             |           17571 | 1.05%        |
+|      13 | SELLERPLACE_AREA          |          268087 | 16.05%       |
+|      14 | CNT_PAYMENT               |           55903 | 3.35%        |
+|      15 | DAYS_FIRST_DRAWING        |           62705 | 3.75%        |
+|      16 | DAYS_FIRST_DUE            |           40645 | 2.43%        |
+|      17 | DAYS_LAST_DUE_1ST_VERSION |           93865 | 5.62%        |
+|      18 | DAYS_LAST_DUE             |          211221 | 12.65%       |
+|      19 | DAYS_TERMINATION          |          225913 | 13.53%       |
+|      20 | NFLAG_INSURED_ON_APPROVAL |               0 | 0.00%        |

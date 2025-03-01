@@ -1,0 +1,55 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name             | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | SK_ID_PREV              | int64       |        1670214 |               0 |                    0 | No Missing Values        |
+|  1 | SK_ID_CURR              | int64       |         338857 |               0 |                    0 | No Missing Values        |
+|  2 | HOUR_APPR_PROCESS_START | int64       |             24 |               0 |                    0 | No Missing Values        |
+|  3 | NFLAG_LAST_APPL_IN_DAY  | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  4 | DAYS_DECISION           | int64       |           2922 |               0 |                    0 | No Missing Values        |
+|  5 | SELLERPLACE_AREA        | int64       |           2097 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: float64
+
+|    | Column Name               | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|---------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | AMT_ANNUITY               | float64     |         357959 |          372235 |         22.2867      | High (20-50%)            |
+|  1 | AMT_APPLICATION           | float64     |          93885 |               0 |          0           | No Missing Values        |
+|  2 | AMT_CREDIT                | float64     |          86803 |               1 |          5.98726e-05 | Min (0-5%)               |
+|  3 | AMT_DOWN_PAYMENT          | float64     |          29278 |          895844 |         53.6365      | Very High (50-100%)      |
+|  4 | AMT_GOODS_PRICE           | float64     |          93885 |          385515 |         23.0818      | High (20-50%)            |
+|  5 | RATE_DOWN_PAYMENT         | float64     |         207033 |          895844 |         53.6365      | Very High (50-100%)      |
+|  6 | RATE_INTEREST_PRIMARY     | float64     |            148 |         1664263 |         99.6437      | Very High (50-100%)      |
+|  7 | RATE_INTEREST_PRIVILEGED  | float64     |             25 |         1664263 |         99.6437      | Very High (50-100%)      |
+|  8 | CNT_PAYMENT               | float64     |             49 |          372230 |         22.2864      | High (20-50%)            |
+|  9 | DAYS_FIRST_DRAWING        | float64     |           2838 |          673065 |         40.2981      | High (20-50%)            |
+| 10 | DAYS_FIRST_DUE            | float64     |           2892 |          673065 |         40.2981      | High (20-50%)            |
+| 11 | DAYS_LAST_DUE_1ST_VERSION | float64     |           4605 |          673065 |         40.2981      | High (20-50%)            |
+| 12 | DAYS_LAST_DUE             | float64     |           2873 |          673065 |         40.2981      | High (20-50%)            |
+| 13 | DAYS_TERMINATION          | float64     |           2830 |          673065 |         40.2981      | High (20-50%)            |
+| 14 | NFLAG_INSURED_ON_APPROVAL | float64     |              2 |          673065 |         40.2981      | High (20-50%)            |
+
+Overview for Data Type: object
+
+|    | Column Name                 | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-----------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | NAME_CONTRACT_TYPE          | object      |              4 |               0 |            0         | No Missing Values        |
+|  1 | WEEKDAY_APPR_PROCESS_START  | object      |              7 |               0 |            0         | No Missing Values        |
+|  2 | FLAG_LAST_APPL_PER_CONTRACT | object      |              2 |               0 |            0         | No Missing Values        |
+|  3 | NAME_CASH_LOAN_PURPOSE      | object      |             25 |               0 |            0         | No Missing Values        |
+|  4 | NAME_CONTRACT_STATUS        | object      |              4 |               0 |            0         | No Missing Values        |
+|  5 | NAME_PAYMENT_TYPE           | object      |              4 |               0 |            0         | No Missing Values        |
+|  6 | CODE_REJECT_REASON          | object      |              9 |               0 |            0         | No Missing Values        |
+|  7 | NAME_TYPE_SUITE             | object      |              7 |          820405 |           49.1198    | High (20-50%)            |
+|  8 | NAME_CLIENT_TYPE            | object      |              4 |               0 |            0         | No Missing Values        |
+|  9 | NAME_GOODS_CATEGORY         | object      |             28 |               0 |            0         | No Missing Values        |
+| 10 | NAME_PORTFOLIO              | object      |              5 |               0 |            0         | No Missing Values        |
+| 11 | NAME_PRODUCT_TYPE           | object      |              3 |               0 |            0         | No Missing Values        |
+| 12 | CHANNEL_TYPE                | object      |              8 |               0 |            0         | No Missing Values        |
+| 13 | NAME_SELLER_INDUSTRY        | object      |             11 |               0 |            0         | No Missing Values        |
+| 14 | NAME_YIELD_GROUP            | object      |              5 |               0 |            0         | No Missing Values        |
+| 15 | PRODUCT_COMBINATION         | object      |             17 |             346 |            0.0207159 | Min (0-5%)               |

@@ -1,0 +1,42 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     SK_ID_PREV                     int64           1000001 - 2845382              1670214
+2     SK_ID_CURR                     int64           100001 - 456255                338857
+3     HOUR_APPR_PROCESS_START        int64           0 - 23                         24
+4     NFLAG_LAST_APPL_IN_DAY         int64           0 - 1                          2
+5     DAYS_DECISION                  int64           -2922 - -1                     2922
+6     SELLERPLACE_AREA               int64           -1 - 4000000                   2097
+7     NAME_CONTRACT_TYPE             object          N/A                            4
+8     WEEKDAY_APPR_PROCESS_START     object          N/A                            7
+9     FLAG_LAST_APPL_PER_CONTRACT    object          N/A                            2
+10    NAME_CASH_LOAN_PURPOSE         object          N/A                            25
+11    NAME_CONTRACT_STATUS           object          N/A                            4
+12    NAME_PAYMENT_TYPE              object          N/A                            4
+13    CODE_REJECT_REASON             object          N/A                            9
+14    NAME_TYPE_SUITE                object          N/A                            7
+15    NAME_CLIENT_TYPE               object          N/A                            4
+16    NAME_GOODS_CATEGORY            object          N/A                            28
+17    NAME_PORTFOLIO                 object          N/A                            5
+18    NAME_PRODUCT_TYPE              object          N/A                            3
+19    CHANNEL_TYPE                   object          N/A                            8
+20    NAME_SELLER_INDUSTRY           object          N/A                            11
+21    NAME_YIELD_GROUP               object          N/A                            5
+22    PRODUCT_COMBINATION            object          N/A                            17
+23    AMT_ANNUITY                    float64         0.0 - 418058.145               357959
+24    AMT_APPLICATION                float64         0.0 - 6905160.0                93885
+25    AMT_CREDIT                     float64         0.0 - 6905160.0                86803
+26    AMT_DOWN_PAYMENT               float64         -0.9 - 3060045.0               29278
+27    AMT_GOODS_PRICE                float64         0.0 - 6905160.0                93885
+28    RATE_DOWN_PAYMENT              float64         -1.4978763414307848e-05 - 1.0  207033
+29    RATE_INTEREST_PRIMARY          float64         0.0347812535418791 - 1.0       148
+30    RATE_INTEREST_PRIVILEGED       float64         0.3731501057082452 - 1.0       25
+31    CNT_PAYMENT                    float64         0.0 - 84.0                     49
+32    DAYS_FIRST_DRAWING             float64         -2922.0 - 365243.0             2838
+33    DAYS_FIRST_DUE                 float64         -2892.0 - 365243.0             2892
+34    DAYS_LAST_DUE_1ST_VERSION      float64         -2801.0 - 365243.0             4605
+35    DAYS_LAST_DUE                  float64         -2889.0 - 365243.0             2873
+36    DAYS_TERMINATION               float64         -2874.0 - 365243.0             2830
+37    NFLAG_INSURED_ON_APPROVAL      float64         0.0 - 1.0                      2

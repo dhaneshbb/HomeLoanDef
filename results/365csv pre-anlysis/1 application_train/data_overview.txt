@@ -1,0 +1,140 @@
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name                 | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-----------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | SK_ID_CURR                  | int64       |         307511 |               0 |                    0 | No Missing Values        |
+|  1 | TARGET                      | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  2 | CNT_CHILDREN                | int64       |             15 |               0 |                    0 | No Missing Values        |
+|  3 | DAYS_BIRTH                  | int64       |          17460 |               0 |                    0 | No Missing Values        |
+|  4 | DAYS_EMPLOYED               | int64       |          12574 |               0 |                    0 | No Missing Values        |
+|  5 | DAYS_ID_PUBLISH             | int64       |           6168 |               0 |                    0 | No Missing Values        |
+|  6 | FLAG_MOBIL                  | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  7 | FLAG_EMP_PHONE              | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  8 | FLAG_WORK_PHONE             | int64       |              2 |               0 |                    0 | No Missing Values        |
+|  9 | FLAG_CONT_MOBILE            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 10 | FLAG_PHONE                  | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 11 | FLAG_EMAIL                  | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 12 | REGION_RATING_CLIENT        | int64       |              3 |               0 |                    0 | No Missing Values        |
+| 13 | REGION_RATING_CLIENT_W_CITY | int64       |              3 |               0 |                    0 | No Missing Values        |
+| 14 | HOUR_APPR_PROCESS_START     | int64       |             24 |               0 |                    0 | No Missing Values        |
+| 15 | REG_REGION_NOT_LIVE_REGION  | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 16 | REG_REGION_NOT_WORK_REGION  | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 17 | LIVE_REGION_NOT_WORK_REGION | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 18 | REG_CITY_NOT_LIVE_CITY      | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 19 | REG_CITY_NOT_WORK_CITY      | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 20 | LIVE_CITY_NOT_WORK_CITY     | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 21 | FLAG_DOCUMENT_2             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 22 | FLAG_DOCUMENT_3             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 23 | FLAG_DOCUMENT_4             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 24 | FLAG_DOCUMENT_5             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 25 | FLAG_DOCUMENT_6             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 26 | FLAG_DOCUMENT_7             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 27 | FLAG_DOCUMENT_8             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 28 | FLAG_DOCUMENT_9             | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 29 | FLAG_DOCUMENT_10            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 30 | FLAG_DOCUMENT_11            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 31 | FLAG_DOCUMENT_12            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 32 | FLAG_DOCUMENT_13            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 33 | FLAG_DOCUMENT_14            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 34 | FLAG_DOCUMENT_15            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 35 | FLAG_DOCUMENT_16            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 36 | FLAG_DOCUMENT_17            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 37 | FLAG_DOCUMENT_18            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 38 | FLAG_DOCUMENT_19            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 39 | FLAG_DOCUMENT_20            | int64       |              2 |               0 |                    0 | No Missing Values        |
+| 40 | FLAG_DOCUMENT_21            | int64       |              2 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: float64
+
+|    | Column Name                  | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|------------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | AMT_INCOME_TOTAL             | float64     |           2548 |               0 |          0           | No Missing Values        |
+|  1 | AMT_CREDIT                   | float64     |           5603 |               0 |          0           | No Missing Values        |
+|  2 | AMT_ANNUITY                  | float64     |          13672 |              12 |          0.0039023   | Min (0-5%)               |
+|  3 | AMT_GOODS_PRICE              | float64     |           1002 |             278 |          0.0904033   | Min (0-5%)               |
+|  4 | REGION_POPULATION_RELATIVE   | float64     |             81 |               0 |          0           | No Missing Values        |
+|  5 | DAYS_REGISTRATION            | float64     |          15688 |               0 |          0           | No Missing Values        |
+|  6 | OWN_CAR_AGE                  | float64     |             62 |          202929 |         65.9908      | Very High (50-100%)      |
+|  7 | CNT_FAM_MEMBERS              | float64     |             17 |               2 |          0.000650383 | Min (0-5%)               |
+|  8 | EXT_SOURCE_1                 | float64     |         114584 |          173378 |         56.3811      | Very High (50-100%)      |
+|  9 | EXT_SOURCE_2                 | float64     |         119831 |             660 |          0.214626    | Min (0-5%)               |
+| 10 | EXT_SOURCE_3                 | float64     |            814 |           60965 |         19.8253      | Moderate (5-20%)         |
+| 11 | APARTMENTS_AVG               | float64     |           2339 |          156061 |         50.7497      | Very High (50-100%)      |
+| 12 | BASEMENTAREA_AVG             | float64     |           3780 |          179943 |         58.516       | Very High (50-100%)      |
+| 13 | YEARS_BEGINEXPLUATATION_AVG  | float64     |            285 |          150007 |         48.781       | High (20-50%)            |
+| 14 | YEARS_BUILD_AVG              | float64     |            149 |          204488 |         66.4978      | Very High (50-100%)      |
+| 15 | COMMONAREA_AVG               | float64     |           3181 |          214865 |         69.8723      | Very High (50-100%)      |
+| 16 | ELEVATORS_AVG                | float64     |            257 |          163891 |         53.296       | Very High (50-100%)      |
+| 17 | ENTRANCES_AVG                | float64     |            285 |          154828 |         50.3488      | Very High (50-100%)      |
+| 18 | FLOORSMAX_AVG                | float64     |            403 |          153020 |         49.7608      | High (20-50%)            |
+| 19 | FLOORSMIN_AVG                | float64     |            305 |          208642 |         67.8486      | Very High (50-100%)      |
+| 20 | LANDAREA_AVG                 | float64     |           3527 |          182590 |         59.3767      | Very High (50-100%)      |
+| 21 | LIVINGAPARTMENTS_AVG         | float64     |           1868 |          210199 |         68.355       | Very High (50-100%)      |
+| 22 | LIVINGAREA_AVG               | float64     |           5199 |          154350 |         50.1933      | Very High (50-100%)      |
+| 23 | NONLIVINGAPARTMENTS_AVG      | float64     |            386 |          213514 |         69.433       | Very High (50-100%)      |
+| 24 | NONLIVINGAREA_AVG            | float64     |           3290 |          169682 |         55.1792      | Very High (50-100%)      |
+| 25 | APARTMENTS_MODE              | float64     |            760 |          156061 |         50.7497      | Very High (50-100%)      |
+| 26 | BASEMENTAREA_MODE            | float64     |           3841 |          179943 |         58.516       | Very High (50-100%)      |
+| 27 | YEARS_BEGINEXPLUATATION_MODE | float64     |            221 |          150007 |         48.781       | High (20-50%)            |
+| 28 | YEARS_BUILD_MODE             | float64     |            154 |          204488 |         66.4978      | Very High (50-100%)      |
+| 29 | COMMONAREA_MODE              | float64     |           3128 |          214865 |         69.8723      | Very High (50-100%)      |
+| 30 | ELEVATORS_MODE               | float64     |             26 |          163891 |         53.296       | Very High (50-100%)      |
+| 31 | ENTRANCES_MODE               | float64     |             30 |          154828 |         50.3488      | Very High (50-100%)      |
+| 32 | FLOORSMAX_MODE               | float64     |             25 |          153020 |         49.7608      | High (20-50%)            |
+| 33 | FLOORSMIN_MODE               | float64     |             25 |          208642 |         67.8486      | Very High (50-100%)      |
+| 34 | LANDAREA_MODE                | float64     |           3563 |          182590 |         59.3767      | Very High (50-100%)      |
+| 35 | LIVINGAPARTMENTS_MODE        | float64     |            736 |          210199 |         68.355       | Very High (50-100%)      |
+| 36 | LIVINGAREA_MODE              | float64     |           5301 |          154350 |         50.1933      | Very High (50-100%)      |
+| 37 | NONLIVINGAPARTMENTS_MODE     | float64     |            167 |          213514 |         69.433       | Very High (50-100%)      |
+| 38 | NONLIVINGAREA_MODE           | float64     |           3327 |          169682 |         55.1792      | Very High (50-100%)      |
+| 39 | APARTMENTS_MEDI              | float64     |           1148 |          156061 |         50.7497      | Very High (50-100%)      |
+| 40 | BASEMENTAREA_MEDI            | float64     |           3772 |          179943 |         58.516       | Very High (50-100%)      |
+| 41 | YEARS_BEGINEXPLUATATION_MEDI | float64     |            245 |          150007 |         48.781       | High (20-50%)            |
+| 42 | YEARS_BUILD_MEDI             | float64     |            151 |          204488 |         66.4978      | Very High (50-100%)      |
+| 43 | COMMONAREA_MEDI              | float64     |           3202 |          214865 |         69.8723      | Very High (50-100%)      |
+| 44 | ELEVATORS_MEDI               | float64     |             46 |          163891 |         53.296       | Very High (50-100%)      |
+| 45 | ENTRANCES_MEDI               | float64     |             46 |          154828 |         50.3488      | Very High (50-100%)      |
+| 46 | FLOORSMAX_MEDI               | float64     |             49 |          153020 |         49.7608      | High (20-50%)            |
+| 47 | FLOORSMIN_MEDI               | float64     |             47 |          208642 |         67.8486      | Very High (50-100%)      |
+| 48 | LANDAREA_MEDI                | float64     |           3560 |          182590 |         59.3767      | Very High (50-100%)      |
+| 49 | LIVINGAPARTMENTS_MEDI        | float64     |           1097 |          210199 |         68.355       | Very High (50-100%)      |
+| 50 | LIVINGAREA_MEDI              | float64     |           5281 |          154350 |         50.1933      | Very High (50-100%)      |
+| 51 | NONLIVINGAPARTMENTS_MEDI     | float64     |            214 |          213514 |         69.433       | Very High (50-100%)      |
+| 52 | NONLIVINGAREA_MEDI           | float64     |           3323 |          169682 |         55.1792      | Very High (50-100%)      |
+| 53 | TOTALAREA_MODE               | float64     |           5116 |          148431 |         48.2685      | High (20-50%)            |
+| 54 | OBS_30_CNT_SOCIAL_CIRCLE     | float64     |             33 |            1021 |          0.332021    | Min (0-5%)               |
+| 55 | DEF_30_CNT_SOCIAL_CIRCLE     | float64     |             10 |            1021 |          0.332021    | Min (0-5%)               |
+| 56 | OBS_60_CNT_SOCIAL_CIRCLE     | float64     |             33 |            1021 |          0.332021    | Min (0-5%)               |
+| 57 | DEF_60_CNT_SOCIAL_CIRCLE     | float64     |              9 |            1021 |          0.332021    | Min (0-5%)               |
+| 58 | DAYS_LAST_PHONE_CHANGE       | float64     |           3773 |               1 |          0.000325192 | Min (0-5%)               |
+| 59 | AMT_REQ_CREDIT_BUREAU_HOUR   | float64     |              5 |           41519 |         13.5016      | Moderate (5-20%)         |
+| 60 | AMT_REQ_CREDIT_BUREAU_DAY    | float64     |              9 |           41519 |         13.5016      | Moderate (5-20%)         |
+| 61 | AMT_REQ_CREDIT_BUREAU_WEEK   | float64     |              9 |           41519 |         13.5016      | Moderate (5-20%)         |
+| 62 | AMT_REQ_CREDIT_BUREAU_MON    | float64     |             24 |           41519 |         13.5016      | Moderate (5-20%)         |
+| 63 | AMT_REQ_CREDIT_BUREAU_QRT    | float64     |             11 |           41519 |         13.5016      | Moderate (5-20%)         |
+| 64 | AMT_REQ_CREDIT_BUREAU_YEAR   | float64     |             25 |           41519 |         13.5016      | Moderate (5-20%)         |
+
+Overview for Data Type: object
+
+|    | Column Name                | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|----------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | NAME_CONTRACT_TYPE         | object      |              2 |               0 |             0        | No Missing Values        |
+|  1 | CODE_GENDER                | object      |              3 |               0 |             0        | No Missing Values        |
+|  2 | FLAG_OWN_CAR               | object      |              2 |               0 |             0        | No Missing Values        |
+|  3 | FLAG_OWN_REALTY            | object      |              2 |               0 |             0        | No Missing Values        |
+|  4 | NAME_TYPE_SUITE            | object      |              7 |            1292 |             0.420148 | Min (0-5%)               |
+|  5 | NAME_INCOME_TYPE           | object      |              8 |               0 |             0        | No Missing Values        |
+|  6 | NAME_EDUCATION_TYPE        | object      |              5 |               0 |             0        | No Missing Values        |
+|  7 | NAME_FAMILY_STATUS         | object      |              6 |               0 |             0        | No Missing Values        |
+|  8 | NAME_HOUSING_TYPE          | object      |              6 |               0 |             0        | No Missing Values        |
+|  9 | OCCUPATION_TYPE            | object      |             18 |           96391 |            31.3455   | High (20-50%)            |
+| 10 | WEEKDAY_APPR_PROCESS_START | object      |              7 |               0 |             0        | No Missing Values        |
+| 11 | ORGANIZATION_TYPE          | object      |             58 |               0 |             0        | No Missing Values        |
+| 12 | FONDKAPREMONT_MODE         | object      |              4 |          210295 |            68.3862   | Very High (50-100%)      |
+| 13 | HOUSETYPE_MODE             | object      |              3 |          154297 |            50.1761   | Very High (50-100%)      |
+| 14 | WALLSMATERIAL_MODE         | object      |              7 |          156341 |            50.8408   | Very High (50-100%)      |
+| 15 | EMERGENCYSTATE_MODE        | object      |              2 |          145755 |            47.3983   | High (20-50%)            |

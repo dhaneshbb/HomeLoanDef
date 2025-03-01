@@ -1,0 +1,129 @@
+### dataset_info
+
+
+=== Dataset Information ===
+
+| Info                      | Details                       |
+|---------------------------|-------------------------------|
+| Total Shape               | 1716428 rows, 17 columns      |
+| Range Index               | 0 to 1716427, 1716428 entries |
+| Columns                   | 17 columns                    |
+| Memory Usage              | 536987054 bytes               |
+| Total Duplicated Rows     | 0 duplicates                  |
+| Missing Values Count      | 3939947 missing values        |
+| Missing Values Percentage | 13.50% missing values         |
+
+Data types with counts of columns:
+
+| Data Type   |   Count of Columns |
+|-------------|--------------------|
+| float64     |                  8 |
+| int64       |                  6 |
+| object      |                  3 |
+
+Numerical and Categorical Variable Counts:
+
+| Variable Type         |   Count |
+|-----------------------|---------|
+| Numerical Variables   |      14 |
+| Categorical Variables |       3 |
+
+No duplicated rows found.
+
+
+### data_overview
+
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name        | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|--------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | SK_ID_CURR         | int64       |         305811 |               0 |                    0 | No Missing Values        |
+|  1 | SK_ID_BUREAU       | int64       |        1716428 |               0 |                    0 | No Missing Values        |
+|  2 | DAYS_CREDIT        | int64       |           2923 |               0 |                    0 | No Missing Values        |
+|  3 | CREDIT_DAY_OVERDUE | int64       |            942 |               0 |                    0 | No Missing Values        |
+|  4 | CNT_CREDIT_PROLONG | int64       |             10 |               0 |                    0 | No Missing Values        |
+|  5 | DAYS_CREDIT_UPDATE | int64       |           2982 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: float64
+
+|    | Column Name            | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | DAYS_CREDIT_ENDDATE    | float64     |          14096 |          105553 |          6.14957     | Moderate (5-20%)         |
+|  1 | DAYS_ENDDATE_FACT      | float64     |           2917 |          633653 |         36.917       | High (20-50%)            |
+|  2 | AMT_CREDIT_MAX_OVERDUE | float64     |          68251 |         1124488 |         65.5133      | Very High (50-100%)      |
+|  3 | AMT_CREDIT_SUM         | float64     |         236708 |              13 |          0.000757387 | Min (0-5%)               |
+|  4 | AMT_CREDIT_SUM_DEBT    | float64     |         226537 |          257669 |         15.0119      | Moderate (5-20%)         |
+|  5 | AMT_CREDIT_SUM_LIMIT   | float64     |          51726 |          591780 |         34.4774      | High (20-50%)            |
+|  6 | AMT_CREDIT_SUM_OVERDUE | float64     |           1616 |               0 |          0           | No Missing Values        |
+|  7 | AMT_ANNUITY            | float64     |          40321 |         1226791 |         71.4735      | Very High (50-100%)      |
+
+Overview for Data Type: object
+
+|    | Column Name     | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-----------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | CREDIT_ACTIVE   | object      |              4 |               0 |                    0 | No Missing Values        |
+|  1 | CREDIT_CURRENCY | object      |              4 |               0 |                    0 | No Missing Values        |
+|  2 | CREDIT_TYPE     | object      |             15 |               0 |                    0 | No Missing Values        |
+
+### outliers_summary
+
+
+=== Outliers Summary ===
+
+|   Index | Column                 |   Outlier Count | Percentage   |
+|---------|------------------------|-----------------|--------------|
+|       0 | SK_ID_CURR             |               0 | 0.00%        |
+|       1 | SK_ID_BUREAU           |               0 | 0.00%        |
+|       2 | DAYS_CREDIT            |               0 | 0.00%        |
+|       3 | CREDIT_DAY_OVERDUE     |            4217 | 0.25%        |
+|       4 | DAYS_CREDIT_ENDDATE    |           79340 | 4.62%        |
+|       5 | DAYS_ENDDATE_FACT      |               1 | 0.00%        |
+|       6 | AMT_CREDIT_MAX_OVERDUE |          121290 | 7.07%        |
+|       7 | CNT_CREDIT_PROLONG     |            9114 | 0.53%        |
+|       8 | AMT_CREDIT_SUM         |          187998 | 10.95%       |
+|       9 | AMT_CREDIT_SUM_DEBT    |          280455 | 16.34%       |
+|      10 | AMT_CREDIT_SUM_LIMIT   |           74506 | 4.34%        |
+|      11 | AMT_CREDIT_SUM_OVERDUE |            4158 | 0.24%        |
+|      12 | DAYS_CREDIT_UPDATE     |           63755 | 3.71%        |
+|      13 | AMT_ANNUITY            |           43918 | 2.56%        |
+
+### summary_statistics_all
+
+Summary Statistics for All Numeric Columns:
+
+| Statistic                   |       SK_ID_CURR |     SK_ID_BUREAU |      DAYS_CREDIT |   CREDIT_DAY_OVERDUE |   DAYS_CREDIT_ENDDATE |   DAYS_ENDDATE_FACT |   AMT_CREDIT_MAX_OVERDUE |   CNT_CREDIT_PROLONG |   AMT_CREDIT_SUM |   AMT_CREDIT_SUM_DEBT |   AMT_CREDIT_SUM_LIMIT |   AMT_CREDIT_SUM_OVERDUE |   DAYS_CREDIT_UPDATE |      AMT_ANNUITY |
+|-----------------------------|------------------|------------------|------------------|----------------------|-----------------------|---------------------|--------------------------|----------------------|------------------|-----------------------|------------------------|--------------------------|----------------------|------------------|
+| Count                       |      1.71643e+06 |      1.71643e+06 |      1.71643e+06 |          1.71643e+06 |           1.61088e+06 |         1.08278e+06 |         591940           |          1.71643e+06 |      1.71642e+06 |           1.45876e+06 |            1.12465e+06 |              1.71643e+06 |          1.71643e+06 | 489637           |
+| Unique                      | 305811           |      1.71643e+06 |   2923           |        942           |       14096           |      2917           |          68251           |         10           | 236708           |      226537           |        51726           |           1616           |       2982           |  40321           |
+| Mean                        | 278215           |      5.92443e+06 |  -1142.11        |          0.818167    |         510.517       |     -1017.44        |           3825.42        |          0.00641041  | 354995           |      137085           |         6229.51        |             37.9128      |       -593.748       |  15712.8         |
+| Std                         | 102939           | 532266           |    795.165       |         36.5444      |        4994.22        |       714.011       |         206032           |          0.0962239   |      1.14981e+06 |      677401           |        45032           |           5937.65        |        720.747       | 325827           |
+| Min                         | 100001           |      5e+06       |  -2922           |          0           |      -42060           |    -42023           |              0           |          0           |      0           |          -4.7056e+06  |      -586406           |              0           |     -41947           |      0           |
+| 25%                         | 188867           |      5.46395e+06 |  -1666           |          0           |       -1138           |     -1489           |              0           |          0           |  51300           |           0           |            0           |              0           |       -908           |      0           |
+| 50%                         | 278055           |      5.9263e+06  |   -987           |          0           |        -330           |      -897           |              0           |          0           | 125518           |           0           |            0           |              0           |       -395           |      0           |
+| 75%                         | 367426           |      6.38568e+06 |   -474           |          0           |         474           |      -425           |              0           |          0           | 315000           |       40153.5         |            0           |              0           |        -33           |  13500           |
+| Max                         | 456255           |      6.84346e+06 |      0           |       2792           |       31199           |         0           |              1.15987e+08 |          9           |      5.85e+08    |           1.701e+08   |            4.7056e+06  |              3.75668e+06 |        372           |      1.18453e+08 |
+| Mode                        | 120860           |      5e+06       |   -364           |          0           |           0           |      -329           |              0           |          0           |      0           |           0           |            0           |              0           |         -7           |      0           |
+| Range                       | 356254           |      1.84346e+06 |   2922           |       2792           |       73259           |     42023           |              1.15987e+08 |          9           |      5.85e+08    |           1.74806e+08 |            5.29201e+06 |              3.75668e+06 |      42319           |      1.18453e+08 |
+| IQR                         | 178559           | 921728           |   1192           |          0           |        1612           |      1064           |              0           |          0           | 263700           |       40153.5         |            0           |              0           |        875           |  13500           |
+| Variance                    |      1.05963e+10 |      2.83307e+11 | 632287           |       1335.5         |           2.49422e+07 |    509811           |              4.2449e+10  |          0.00925904  |      1.32207e+12 |           4.58872e+11 |            2.02788e+09 |              3.52557e+07 |     519477           |      1.06163e+11 |
+| Skewness                    |      0.00106289  |     -0.00749783  |     -0.582349    |         55.931       |           5.12713     |        -0.774754    |            470.914       |         20.3193      |    124.586       |          36.4145      |           18.0269      |            403.242       |        -11.335       |    212.543       |
+| Kurtosis                    |     -1.20278     |     -1.19902     |     -0.735445    |       3374.48        |          28.1803      |         9.40919     |         245697           |        615.439       |  49316           |        5673.43        |          796.096       |         211837           |        596.374       |  58560.7         |
+| Shapiro-Wilk Test Statistic |      0.955117    |      0.955655    |      0.935115    |          0.00653106  |         nan           |       nan           |            nan           |          0.0395855   |    nan           |         nan           |          nan           |              0.000699878 |          0.710186    |    nan           |
+| Shapiro-Wilk Test p-value   |      0           |      0           |      0           |          0           |           1           |         1           |              1           |          0           |      1           |           1           |            1           |              0           |          0           |      1           |
+
+### categorical_summary
+
+Categorical Summary:
+
+| Statistic      | CREDIT_ACTIVE   | CREDIT_CURRENCY   | CREDIT_TYPE     |
+|----------------|-----------------|-------------------|-----------------|
+| Count          | 1716428         | 1716428           | 1716428         |
+| Unique         | 4               | 4                 | 15              |
+| Top            | Closed          | currency 1        | Consumer credit |
+| Frequency      | 1079273         | 1715020           | 1251615         |
+| Top Percentage | 62.88%          | 99.92%            | 72.92%          |
+

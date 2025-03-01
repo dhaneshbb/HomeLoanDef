@@ -1,0 +1,7 @@
+
+=== Outliers Summary ===
+
+|   Index | Column         |   Outlier Count | Percentage   |
+|---------|----------------|-----------------|--------------|
+|       0 | SK_ID_BUREAU   |               0 | 0.00%        |
+|       1 | MONTHS_BALANCE |               0 | 0.00%        |
