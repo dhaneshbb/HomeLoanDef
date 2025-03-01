@@ -53,7 +53,7 @@ The data comprises 7 interconnected CSV files with loan application history, cre
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dhaneshbb/HomeLoanDef.git
+   git clone [https://github.com/dhaneshbb/HomeLoanDef](https://github.com/dhaneshbb/HomeLoanDef).git
    cd HomeLoanDef
    ```
 2. **Install Dependencies**:
