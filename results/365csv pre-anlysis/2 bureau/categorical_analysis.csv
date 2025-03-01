@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35d392d58a8afa227b5c4504d836b8e1103c04378ec151ed06ef0de957a58319
-size 976
+Variable,Outcome,Count,Percent
+CREDIT_ACTIVE,Closed,1079273,62.88
+CREDIT_ACTIVE,Active,630607,36.74
+CREDIT_ACTIVE,Sold,6527,0.38
+CREDIT_ACTIVE,Bad debt,21,0.0
+CREDIT_CURRENCY,currency 1,1715020,99.92
+CREDIT_CURRENCY,currency 2,1224,0.07
+CREDIT_CURRENCY,currency 3,174,0.01
+CREDIT_CURRENCY,currency 4,10,0.0
+CREDIT_TYPE,Consumer credit,1251615,72.92
+CREDIT_TYPE,Credit card,402195,23.43
+CREDIT_TYPE,Car loan,27690,1.61
+CREDIT_TYPE,Mortgage,18391,1.07
+CREDIT_TYPE,Microloan,12413,0.72
+CREDIT_TYPE,Loan for business development,1975,0.12
+CREDIT_TYPE,Another type of loan,1017,0.06
+CREDIT_TYPE,Unknown type of loan,555,0.03
+CREDIT_TYPE,Loan for working capital replenishment,469,0.03
+CREDIT_TYPE,Cash loan (non-earmarked),56,0.0
+CREDIT_TYPE,Real estate loan,27,0.0
+CREDIT_TYPE,Loan for the purchase of equipment,19,0.0
+CREDIT_TYPE,Loan for purchase of shares (margin lending),4,0.0
+CREDIT_TYPE,Mobile operator loan,1,0.0
+CREDIT_TYPE,Interbank credit,1,0.0

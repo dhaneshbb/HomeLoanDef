@@ -1,3 +1,254 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b6416c4639233b4f70d9056cc51214f951ad1bfd26f55416e75c20d04c98e6c
-size 19275
+,,Grouped by TARGET,Grouped by TARGET,Grouped by TARGET,Grouped by TARGET,Grouped by TARGET
+,,Missing,Overall,0,1,P-Value
+n,,,307511,282686,24825,
+"NAME_CONTRACT_TYPE, n (%)",Cash loans,,278232 (90.5),255011 (90.2),23221 (93.5),<0.001
+"NAME_CONTRACT_TYPE, n (%)",Revolving loans,,29279 (9.5),27675 (9.8),1604 (6.5),
+"CODE_GENDER, n (%)",F,,202448 (65.8),188278 (66.6),14170 (57.1),<0.001
+"CODE_GENDER, n (%)",M,,105059 (34.2),94404 (33.4),10655 (42.9),
+"CODE_GENDER, n (%)",XNA,,4 (0.0),4 (0.0),,
+"FLAG_OWN_CAR, n (%)",N,,202924 (66.0),185675 (65.7),17249 (69.5),<0.001
+"FLAG_OWN_CAR, n (%)",Y,,104587 (34.0),97011 (34.3),7576 (30.5),
+"FLAG_OWN_REALTY, n (%)",N,,94199 (30.6),86357 (30.5),7842 (31.6),0.001
+"FLAG_OWN_REALTY, n (%)",Y,,213312 (69.4),196329 (69.5),16983 (68.4),
+"NAME_TYPE_SUITE, n (%)",Children,,3267 (1.1),3026 (1.1),241 (1.0),<0.001
+"NAME_TYPE_SUITE, n (%)",Family,,40149 (13.1),37140 (13.1),3009 (12.1),
+"NAME_TYPE_SUITE, n (%)",Group of people,,271 (0.1),248 (0.1),23 (0.1),
+"NAME_TYPE_SUITE, n (%)",None,,1292 (0.4),1222 (0.4),70 (0.3),
+"NAME_TYPE_SUITE, n (%)",Other_A,,866 (0.3),790 (0.3),76 (0.3),
+"NAME_TYPE_SUITE, n (%)",Other_B,,1770 (0.6),1596 (0.6),174 (0.7),
+"NAME_TYPE_SUITE, n (%)","Spouse, partner",,11370 (3.7),10475 (3.7),895 (3.6),
+"NAME_TYPE_SUITE, n (%)",Unaccompanied,,248526 (80.8),228189 (80.7),20337 (81.9),
+"NAME_INCOME_TYPE, n (%)",Businessman,,10 (0.0),10 (0.0),,<0.001
+"NAME_INCOME_TYPE, n (%)",Commercial associate,,71617 (23.3),66257 (23.4),5360 (21.6),
+"NAME_INCOME_TYPE, n (%)",Maternity leave,,5 (0.0),3 (0.0),2 (0.0),
+"NAME_INCOME_TYPE, n (%)",Pensioner,,55362 (18.0),52380 (18.5),2982 (12.0),
+"NAME_INCOME_TYPE, n (%)",State servant,,21703 (7.1),20454 (7.2),1249 (5.0),
+"NAME_INCOME_TYPE, n (%)",Student,,18 (0.0),18 (0.0),,
+"NAME_INCOME_TYPE, n (%)",Unemployed,,22 (0.0),14 (0.0),8 (0.0),
+"NAME_INCOME_TYPE, n (%)",Working,,158774 (51.6),143550 (50.8),15224 (61.3),
+"NAME_EDUCATION_TYPE, n (%)",Academic degree,,164 (0.1),161 (0.1),3 (0.0),<0.001
+"NAME_EDUCATION_TYPE, n (%)",Higher education,,74863 (24.3),70854 (25.1),4009 (16.1),
+"NAME_EDUCATION_TYPE, n (%)",Incomplete higher,,10277 (3.3),9405 (3.3),872 (3.5),
+"NAME_EDUCATION_TYPE, n (%)",Lower secondary,,3816 (1.2),3399 (1.2),417 (1.7),
+"NAME_EDUCATION_TYPE, n (%)",Secondary / secondary special,,218391 (71.0),198867 (70.3),19524 (78.6),
+"NAME_FAMILY_STATUS, n (%)",Civil marriage,,29775 (9.7),26814 (9.5),2961 (11.9),<0.001
+"NAME_FAMILY_STATUS, n (%)",Married,,196432 (63.9),181582 (64.2),14850 (59.8),
+"NAME_FAMILY_STATUS, n (%)",Separated,,19770 (6.4),18150 (6.4),1620 (6.5),
+"NAME_FAMILY_STATUS, n (%)",Single / not married,,45444 (14.8),40987 (14.5),4457 (18.0),
+"NAME_FAMILY_STATUS, n (%)",Unknown,,2 (0.0),2 (0.0),,
+"NAME_FAMILY_STATUS, n (%)",Widow,,16088 (5.2),15151 (5.4),937 (3.8),
+"NAME_HOUSING_TYPE, n (%)",Co-op apartment,,1122 (0.4),1033 (0.4),89 (0.4),<0.001
+"NAME_HOUSING_TYPE, n (%)",House / apartment,,272868 (88.7),251596 (89.0),21272 (85.7),
+"NAME_HOUSING_TYPE, n (%)",Municipal apartment,,11183 (3.6),10228 (3.6),955 (3.8),
+"NAME_HOUSING_TYPE, n (%)",Office apartment,,2617 (0.9),2445 (0.9),172 (0.7),
+"NAME_HOUSING_TYPE, n (%)",Rented apartment,,4881 (1.6),4280 (1.5),601 (2.4),
+"NAME_HOUSING_TYPE, n (%)",With parents,,14840 (4.8),13104 (4.6),1736 (7.0),
+"OCCUPATION_TYPE, n (%)",Accountants,,9813 (3.2),9339 (3.3),474 (1.9),<0.001
+"OCCUPATION_TYPE, n (%)",Cleaning staff,,4653 (1.5),4206 (1.5),447 (1.8),
+"OCCUPATION_TYPE, n (%)",Cooking staff,,5946 (1.9),5325 (1.9),621 (2.5),
+"OCCUPATION_TYPE, n (%)",Core staff,,27570 (9.0),25832 (9.1),1738 (7.0),
+"OCCUPATION_TYPE, n (%)",Drivers,,18603 (6.0),16496 (5.8),2107 (8.5),
+"OCCUPATION_TYPE, n (%)",HR staff,,563 (0.2),527 (0.2),36 (0.1),
+"OCCUPATION_TYPE, n (%)",High skill tech staff,,11380 (3.7),10679 (3.8),701 (2.8),
+"OCCUPATION_TYPE, n (%)",IT staff,,526 (0.2),492 (0.2),34 (0.1),
+"OCCUPATION_TYPE, n (%)",Laborers,,55186 (17.9),49348 (17.5),5838 (23.5),
+"OCCUPATION_TYPE, n (%)",Low-skill Laborers,,2093 (0.7),1734 (0.6),359 (1.4),
+"OCCUPATION_TYPE, n (%)",Managers,,21371 (6.9),20043 (7.1),1328 (5.3),
+"OCCUPATION_TYPE, n (%)",Medicine staff,,8537 (2.8),7965 (2.8),572 (2.3),
+"OCCUPATION_TYPE, n (%)",None,,96391 (31.3),90113 (31.9),6278 (25.3),
+"OCCUPATION_TYPE, n (%)",Private service staff,,2652 (0.9),2477 (0.9),175 (0.7),
+"OCCUPATION_TYPE, n (%)",Realty agents,,751 (0.2),692 (0.2),59 (0.2),
+"OCCUPATION_TYPE, n (%)",Sales staff,,32102 (10.4),29010 (10.3),3092 (12.5),
+"OCCUPATION_TYPE, n (%)",Secretaries,,1305 (0.4),1213 (0.4),92 (0.4),
+"OCCUPATION_TYPE, n (%)",Security staff,,6721 (2.2),5999 (2.1),722 (2.9),
+"OCCUPATION_TYPE, n (%)",Waiters/barmen staff,,1348 (0.4),1196 (0.4),152 (0.6),
+"WEEKDAY_APPR_PROCESS_START, n (%)",FRIDAY,,50338 (16.4),46237 (16.4),4101 (16.5),0.017
+"WEEKDAY_APPR_PROCESS_START, n (%)",MONDAY,,50714 (16.5),46780 (16.5),3934 (15.8),
+"WEEKDAY_APPR_PROCESS_START, n (%)",SATURDAY,,33852 (11.0),31182 (11.0),2670 (10.8),
+"WEEKDAY_APPR_PROCESS_START, n (%)",SUNDAY,,16181 (5.3),14898 (5.3),1283 (5.2),
+"WEEKDAY_APPR_PROCESS_START, n (%)",THURSDAY,,50591 (16.5),46493 (16.4),4098 (16.5),
+"WEEKDAY_APPR_PROCESS_START, n (%)",TUESDAY,,53901 (17.5),49400 (17.5),4501 (18.1),
+"WEEKDAY_APPR_PROCESS_START, n (%)",WEDNESDAY,,51934 (16.9),47696 (16.9),4238 (17.1),
+"ORGANIZATION_TYPE, n (%)",Advertising,,429 (0.1),394 (0.1),35 (0.1),<0.001
+"ORGANIZATION_TYPE, n (%)",Agriculture,,2454 (0.8),2197 (0.8),257 (1.0),
+"ORGANIZATION_TYPE, n (%)",Bank,,2507 (0.8),2377 (0.8),130 (0.5),
+"ORGANIZATION_TYPE, n (%)",Business Entity Type 1,,5984 (1.9),5497 (1.9),487 (2.0),
+"ORGANIZATION_TYPE, n (%)",Business Entity Type 2,,10553 (3.4),9653 (3.4),900 (3.6),
+"ORGANIZATION_TYPE, n (%)",Business Entity Type 3,,67992 (22.1),61669 (21.8),6323 (25.5),
+"ORGANIZATION_TYPE, n (%)",Cleaning,,260 (0.1),231 (0.1),29 (0.1),
+"ORGANIZATION_TYPE, n (%)",Construction,,6721 (2.2),5936 (2.1),785 (3.2),
+"ORGANIZATION_TYPE, n (%)",Culture,,379 (0.1),358 (0.1),21 (0.1),
+"ORGANIZATION_TYPE, n (%)",Electricity,,950 (0.3),887 (0.3),63 (0.3),
+"ORGANIZATION_TYPE, n (%)",Emergency,,560 (0.2),520 (0.2),40 (0.2),
+"ORGANIZATION_TYPE, n (%)",Government,,10404 (3.4),9678 (3.4),726 (2.9),
+"ORGANIZATION_TYPE, n (%)",Hotel,,966 (0.3),904 (0.3),62 (0.2),
+"ORGANIZATION_TYPE, n (%)",Housing,,2958 (1.0),2723 (1.0),235 (0.9),
+"ORGANIZATION_TYPE, n (%)",Industry: type 1,,1039 (0.3),924 (0.3),115 (0.5),
+"ORGANIZATION_TYPE, n (%)",Industry: type 10,,109 (0.0),102 (0.0),7 (0.0),
+"ORGANIZATION_TYPE, n (%)",Industry: type 11,,2704 (0.9),2470 (0.9),234 (0.9),
+"ORGANIZATION_TYPE, n (%)",Industry: type 12,,369 (0.1),355 (0.1),14 (0.1),
+"ORGANIZATION_TYPE, n (%)",Industry: type 13,,67 (0.0),58 (0.0),9 (0.0),
+"ORGANIZATION_TYPE, n (%)",Industry: type 2,,458 (0.1),425 (0.2),33 (0.1),
+"ORGANIZATION_TYPE, n (%)",Industry: type 3,,3278 (1.1),2930 (1.0),348 (1.4),
+"ORGANIZATION_TYPE, n (%)",Industry: type 4,,877 (0.3),788 (0.3),89 (0.4),
+"ORGANIZATION_TYPE, n (%)",Industry: type 5,,599 (0.2),558 (0.2),41 (0.2),
+"ORGANIZATION_TYPE, n (%)",Industry: type 6,,112 (0.0),104 (0.0),8 (0.0),
+"ORGANIZATION_TYPE, n (%)",Industry: type 7,,1307 (0.4),1202 (0.4),105 (0.4),
+"ORGANIZATION_TYPE, n (%)",Industry: type 8,,24 (0.0),21 (0.0),3 (0.0),
+"ORGANIZATION_TYPE, n (%)",Industry: type 9,,3368 (1.1),3143 (1.1),225 (0.9),
+"ORGANIZATION_TYPE, n (%)",Insurance,,597 (0.2),563 (0.2),34 (0.1),
+"ORGANIZATION_TYPE, n (%)",Kindergarten,,6880 (2.2),6396 (2.3),484 (1.9),
+"ORGANIZATION_TYPE, n (%)",Legal Services,,305 (0.1),281 (0.1),24 (0.1),
+"ORGANIZATION_TYPE, n (%)",Medicine,,11193 (3.6),10456 (3.7),737 (3.0),
+"ORGANIZATION_TYPE, n (%)",Military,,2634 (0.9),2499 (0.9),135 (0.5),
+"ORGANIZATION_TYPE, n (%)",Mobile,,317 (0.1),288 (0.1),29 (0.1),
+"ORGANIZATION_TYPE, n (%)",Other,,16683 (5.4),15408 (5.5),1275 (5.1),
+"ORGANIZATION_TYPE, n (%)",Police,,2341 (0.8),2224 (0.8),117 (0.5),
+"ORGANIZATION_TYPE, n (%)",Postal,,2157 (0.7),1975 (0.7),182 (0.7),
+"ORGANIZATION_TYPE, n (%)",Realtor,,396 (0.1),354 (0.1),42 (0.2),
+"ORGANIZATION_TYPE, n (%)",Religion,,85 (0.0),80 (0.0),5 (0.0),
+"ORGANIZATION_TYPE, n (%)",Restaurant,,1811 (0.6),1599 (0.6),212 (0.9),
+"ORGANIZATION_TYPE, n (%)",School,,8893 (2.9),8367 (3.0),526 (2.1),
+"ORGANIZATION_TYPE, n (%)",Security,,3247 (1.1),2923 (1.0),324 (1.3),
+"ORGANIZATION_TYPE, n (%)",Security Ministries,,1974 (0.6),1878 (0.7),96 (0.4),
+"ORGANIZATION_TYPE, n (%)",Self-employed,,38412 (12.5),34504 (12.2),3908 (15.7),
+"ORGANIZATION_TYPE, n (%)",Services,,1575 (0.5),1471 (0.5),104 (0.4),
+"ORGANIZATION_TYPE, n (%)",Telecom,,577 (0.2),533 (0.2),44 (0.2),
+"ORGANIZATION_TYPE, n (%)",Trade: type 1,,348 (0.1),317 (0.1),31 (0.1),
+"ORGANIZATION_TYPE, n (%)",Trade: type 2,,1900 (0.6),1767 (0.6),133 (0.5),
+"ORGANIZATION_TYPE, n (%)",Trade: type 3,,3492 (1.1),3131 (1.1),361 (1.5),
+"ORGANIZATION_TYPE, n (%)",Trade: type 4,,64 (0.0),62 (0.0),2 (0.0),
+"ORGANIZATION_TYPE, n (%)",Trade: type 5,,49 (0.0),46 (0.0),3 (0.0),
+"ORGANIZATION_TYPE, n (%)",Trade: type 6,,631 (0.2),602 (0.2),29 (0.1),
+"ORGANIZATION_TYPE, n (%)",Trade: type 7,,7831 (2.5),7091 (2.5),740 (3.0),
+"ORGANIZATION_TYPE, n (%)",Transport: type 1,,201 (0.1),192 (0.1),9 (0.0),
+"ORGANIZATION_TYPE, n (%)",Transport: type 2,,2204 (0.7),2032 (0.7),172 (0.7),
+"ORGANIZATION_TYPE, n (%)",Transport: type 3,,1187 (0.4),1000 (0.4),187 (0.8),
+"ORGANIZATION_TYPE, n (%)",Transport: type 4,,5398 (1.8),4897 (1.7),501 (2.0),
+"ORGANIZATION_TYPE, n (%)",University,,1327 (0.4),1262 (0.4),65 (0.3),
+"ORGANIZATION_TYPE, n (%)",XNA,,55374 (18.0),52384 (18.5),2990 (12.0),
+"FONDKAPREMONT_MODE, n (%)",None,,210295 (68.4),192170 (68.0),18125 (73.0),<0.001
+"FONDKAPREMONT_MODE, n (%)",not specified,,5687 (1.8),5258 (1.9),429 (1.7),
+"FONDKAPREMONT_MODE, n (%)",org spec account,,5619 (1.8),5292 (1.9),327 (1.3),
+"FONDKAPREMONT_MODE, n (%)",reg oper account,,73830 (24.0),68678 (24.3),5152 (20.8),
+"FONDKAPREMONT_MODE, n (%)",reg oper spec account,,12080 (3.9),11288 (4.0),792 (3.2),
+"HOUSETYPE_MODE, n (%)",None,,154297 (50.2),140177 (49.6),14120 (56.9),<0.001
+"HOUSETYPE_MODE, n (%)",block of flats,,150503 (48.9),140053 (49.5),10450 (42.1),
+"HOUSETYPE_MODE, n (%)",specific housing,,1499 (0.5),1347 (0.5),152 (0.6),
+"HOUSETYPE_MODE, n (%)",terraced house,,1212 (0.4),1109 (0.4),103 (0.4),
+"WALLSMATERIAL_MODE, n (%)",Block,,9253 (3.0),8603 (3.0),650 (2.6),<0.001
+"WALLSMATERIAL_MODE, n (%)",Mixed,,2296 (0.7),2123 (0.8),173 (0.7),
+"WALLSMATERIAL_MODE, n (%)",Monolithic,,1779 (0.6),1695 (0.6),84 (0.3),
+"WALLSMATERIAL_MODE, n (%)",None,,156341 (50.8),142070 (50.3),14271 (57.5),
+"WALLSMATERIAL_MODE, n (%)",Others,,1625 (0.5),1490 (0.5),135 (0.5),
+"WALLSMATERIAL_MODE, n (%)",Panel,,66040 (21.5),61848 (21.9),4192 (16.9),
+"WALLSMATERIAL_MODE, n (%)","Stone, brick",,64815 (21.1),60015 (21.2),4800 (19.3),
+"WALLSMATERIAL_MODE, n (%)",Wooden,,5362 (1.7),4842 (1.7),520 (2.1),
+"EMERGENCYSTATE_MODE, n (%)",No,,159428 (51.8),148324 (52.5),11104 (44.7),<0.001
+"EMERGENCYSTATE_MODE, n (%)",None,,145755 (47.4),132257 (46.8),13498 (54.4),
+"EMERGENCYSTATE_MODE, n (%)",Yes,,2328 (0.8),2105 (0.7),223 (0.9),
+"SK_ID_CURR, mean (SD)",,0,278180.5 (102790.2),278244.7 (102825.8),277449.2 (102383.1),0.241
+"CNT_CHILDREN, mean (SD)",,0,0.4 (0.7),0.4 (0.7),0.5 (0.8),<0.001
+"AMT_INCOME_TOTAL, mean (SD)",,0,168797.9 (237123.1),169077.7 (110476.3),165611.8 (746677.0),0.465
+"AMT_CREDIT, mean (SD)",,0,599026.0 (402490.8),602648.3 (406845.9),557778.5 (346433.2),<0.001
+"AMT_ANNUITY, mean (SD)",,12,27108.6 (14493.7),27163.6 (14658.3),26481.7 (12450.7),<0.001
+"AMT_GOODS_PRICE, mean (SD)",,278,538396.2 (369446.5),542736.8 (373785.5),488972.4 (311636.5),<0.001
+"REGION_POPULATION_RELATIVE, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),<0.001
+"DAYS_BIRTH, mean (SD)",,0,-16037.0 (4364.0),-16138.2 (4364.2),-14884.8 (4192.8),<0.001
+"DAYS_EMPLOYED, mean (SD)",,0,63815.0 (141275.8),65696.1 (142877.8),42394.7 (119484.6),<0.001
+"DAYS_REGISTRATION, mean (SD)",,0,-4986.1 (3522.9),-5029.9 (3538.5),-4487.1 (3299.7),<0.001
+"DAYS_ID_PUBLISH, mean (SD)",,0,-2994.2 (1509.5),-3017.2 (1506.6),-2732.1 (1517.0),<0.001
+"OWN_CAR_AGE, mean (SD)",,202929,12.1 (11.9),11.9 (11.9),13.7 (12.5),<0.001
+"FLAG_MOBIL, mean (SD)",,0,1.0 (0.0),1.0 (0.0),1.0 (0.0),0.317
+"FLAG_EMP_PHONE, mean (SD)",,0,0.8 (0.4),0.8 (0.4),0.9 (0.3),<0.001
+"FLAG_WORK_PHONE, mean (SD)",,0,0.2 (0.4),0.2 (0.4),0.2 (0.4),<0.001
+"FLAG_CONT_MOBILE, mean (SD)",,0,1.0 (0.0),1.0 (0.0),1.0 (0.0),0.835
+"FLAG_PHONE, mean (SD)",,0,0.3 (0.4),0.3 (0.5),0.2 (0.4),<0.001
+"FLAG_EMAIL, mean (SD)",,0,0.1 (0.2),0.1 (0.2),0.1 (0.2),0.324
+"CNT_FAM_MEMBERS, mean (SD)",,2,2.2 (0.9),2.2 (0.9),2.2 (1.0),<0.001
+"REGION_RATING_CLIENT, mean (SD)",,0,2.1 (0.5),2.0 (0.5),2.2 (0.5),<0.001
+"REGION_RATING_CLIENT_W_CITY, mean (SD)",,0,2.0 (0.5),2.0 (0.5),2.1 (0.5),<0.001
+"HOUR_APPR_PROCESS_START, mean (SD)",,0,12.1 (3.3),12.1 (3.3),11.8 (3.3),<0.001
+"REG_REGION_NOT_LIVE_REGION, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.1),0.004
+"REG_REGION_NOT_WORK_REGION, mean (SD)",,0,0.1 (0.2),0.1 (0.2),0.1 (0.2),<0.001
+"LIVE_REGION_NOT_WORK_REGION, mean (SD)",,0,0.0 (0.2),0.0 (0.2),0.0 (0.2),0.125
+"REG_CITY_NOT_LIVE_CITY, mean (SD)",,0,0.1 (0.3),0.1 (0.3),0.1 (0.3),<0.001
+"REG_CITY_NOT_WORK_CITY, mean (SD)",,0,0.2 (0.4),0.2 (0.4),0.3 (0.5),<0.001
+"LIVE_CITY_NOT_WORK_CITY, mean (SD)",,0,0.2 (0.4),0.2 (0.4),0.2 (0.4),<0.001
+"EXT_SOURCE_1, mean (SD)",,173378,0.5 (0.2),0.5 (0.2),0.4 (0.2),<0.001
+"EXT_SOURCE_2, mean (SD)",,660,0.5 (0.2),0.5 (0.2),0.4 (0.2),<0.001
+"EXT_SOURCE_3, mean (SD)",,60965,0.5 (0.2),0.5 (0.2),0.4 (0.2),<0.001
+"APARTMENTS_AVG, mean (SD)",,156061,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"BASEMENTAREA_AVG, mean (SD)",,179943,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"YEARS_BEGINEXPLUATATION_AVG, mean (SD)",,150007,1.0 (0.1),1.0 (0.1),1.0 (0.1),0.001
+"YEARS_BUILD_AVG, mean (SD)",,204488,0.8 (0.1),0.8 (0.1),0.7 (0.1),<0.001
+"COMMONAREA_AVG, mean (SD)",,214865,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"ELEVATORS_AVG, mean (SD)",,163891,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"ENTRANCES_AVG, mean (SD)",,154828,0.1 (0.1),0.2 (0.1),0.1 (0.1),<0.001
+"FLOORSMAX_AVG, mean (SD)",,153020,0.2 (0.1),0.2 (0.1),0.2 (0.1),<0.001
+"FLOORSMIN_AVG, mean (SD)",,208642,0.2 (0.2),0.2 (0.2),0.2 (0.1),<0.001
+"LANDAREA_AVG, mean (SD)",,182590,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"LIVINGAPARTMENTS_AVG, mean (SD)",,210199,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"LIVINGAREA_AVG, mean (SD)",,154350,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"NONLIVINGAPARTMENTS_AVG, mean (SD)",,213514,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.320
+"NONLIVINGAREA_AVG, mean (SD)",,169682,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"APARTMENTS_MODE, mean (SD)",,156061,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"BASEMENTAREA_MODE, mean (SD)",,179943,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"YEARS_BEGINEXPLUATATION_MODE, mean (SD)",,150007,1.0 (0.1),1.0 (0.1),1.0 (0.1),0.002
+"YEARS_BUILD_MODE, mean (SD)",,204488,0.8 (0.1),0.8 (0.1),0.8 (0.1),<0.001
+"COMMONAREA_MODE, mean (SD)",,214865,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"ELEVATORS_MODE, mean (SD)",,163891,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"ENTRANCES_MODE, mean (SD)",,154828,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"FLOORSMAX_MODE, mean (SD)",,153020,0.2 (0.1),0.2 (0.1),0.2 (0.1),<0.001
+"FLOORSMIN_MODE, mean (SD)",,208642,0.2 (0.2),0.2 (0.2),0.2 (0.1),<0.001
+"LANDAREA_MODE, mean (SD)",,182590,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"LIVINGAPARTMENTS_MODE, mean (SD)",,210199,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"LIVINGAREA_MODE, mean (SD)",,154350,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"NONLIVINGAPARTMENTS_MODE, mean (SD)",,213514,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.636
+"NONLIVINGAREA_MODE, mean (SD)",,169682,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"APARTMENTS_MEDI, mean (SD)",,156061,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"BASEMENTAREA_MEDI, mean (SD)",,179943,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"YEARS_BEGINEXPLUATATION_MEDI, mean (SD)",,150007,1.0 (0.1),1.0 (0.1),1.0 (0.1),0.001
+"YEARS_BUILD_MEDI, mean (SD)",,204488,0.8 (0.1),0.8 (0.1),0.7 (0.1),<0.001
+"COMMONAREA_MEDI, mean (SD)",,214865,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"ELEVATORS_MEDI, mean (SD)",,163891,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"ENTRANCES_MEDI, mean (SD)",,154828,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"FLOORSMAX_MEDI, mean (SD)",,153020,0.2 (0.1),0.2 (0.1),0.2 (0.1),<0.001
+"FLOORSMIN_MEDI, mean (SD)",,208642,0.2 (0.2),0.2 (0.2),0.2 (0.1),<0.001
+"LANDAREA_MEDI, mean (SD)",,182590,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"LIVINGAPARTMENTS_MEDI, mean (SD)",,210199,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"LIVINGAREA_MEDI, mean (SD)",,154350,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"NONLIVINGAPARTMENTS_MEDI, mean (SD)",,213514,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.391
+"NONLIVINGAREA_MEDI, mean (SD)",,169682,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"TOTALAREA_MODE, mean (SD)",,148431,0.1 (0.1),0.1 (0.1),0.1 (0.1),<0.001
+"OBS_30_CNT_SOCIAL_CIRCLE, mean (SD)",,1021,1.4 (2.4),1.4 (2.4),1.5 (2.4),<0.001
+"DEF_30_CNT_SOCIAL_CIRCLE, mean (SD)",,1021,0.1 (0.4),0.1 (0.4),0.2 (0.5),<0.001
+"OBS_60_CNT_SOCIAL_CIRCLE, mean (SD)",,1021,1.4 (2.4),1.4 (2.4),1.5 (2.4),<0.001
+"DEF_60_CNT_SOCIAL_CIRCLE, mean (SD)",,1021,0.1 (0.4),0.1 (0.4),0.1 (0.4),<0.001
+"DAYS_LAST_PHONE_CHANGE, mean (SD)",,1,-962.9 (826.8),-976.4 (831.2),-808.8 (758.1),<0.001
+"FLAG_DOCUMENT_2, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.112
+"FLAG_DOCUMENT_3, mean (SD)",,0,0.7 (0.5),0.7 (0.5),0.8 (0.4),<0.001
+"FLAG_DOCUMENT_4, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),<0.001
+"FLAG_DOCUMENT_5, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.1),0.860
+"FLAG_DOCUMENT_6, mean (SD)",,0,0.1 (0.3),0.1 (0.3),0.1 (0.2),<0.001
+"FLAG_DOCUMENT_7, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.301
+"FLAG_DOCUMENT_8, mean (SD)",,0,0.1 (0.3),0.1 (0.3),0.1 (0.3),<0.001
+"FLAG_DOCUMENT_9, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.1),0.007
+"FLAG_DOCUMENT_10, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.008
+"FLAG_DOCUMENT_11, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.1),0.008
+"FLAG_DOCUMENT_12, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.157
+"FLAG_DOCUMENT_13, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.0),<0.001
+"FLAG_DOCUMENT_14, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.0),<0.001
+"FLAG_DOCUMENT_15, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),<0.001
+"FLAG_DOCUMENT_16, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"FLAG_DOCUMENT_17, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.002
+"FLAG_DOCUMENT_18, mean (SD)",,0,0.0 (0.1),0.0 (0.1),0.0 (0.1),<0.001
+"FLAG_DOCUMENT_19, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.408
+"FLAG_DOCUMENT_20, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.906
+"FLAG_DOCUMENT_21, mean (SD)",,0,0.0 (0.0),0.0 (0.0),0.0 (0.0),0.107
+"AMT_REQ_CREDIT_BUREAU_HOUR, mean (SD)",,41519,0.0 (0.1),0.0 (0.1),0.0 (0.1),0.635
+"AMT_REQ_CREDIT_BUREAU_DAY, mean (SD)",,41519,0.0 (0.1),0.0 (0.1),0.0 (0.1),0.149
+"AMT_REQ_CREDIT_BUREAU_WEEK, mean (SD)",,41519,0.0 (0.2),0.0 (0.2),0.0 (0.2),0.684
+"AMT_REQ_CREDIT_BUREAU_MON, mean (SD)",,41519,0.3 (0.9),0.3 (0.9),0.2 (0.7),<0.001
+"AMT_REQ_CREDIT_BUREAU_QRT, mean (SD)",,41519,0.3 (0.8),0.3 (0.8),0.3 (0.6),0.208
+"AMT_REQ_CREDIT_BUREAU_YEAR, mean (SD)",,41519,1.9 (1.9),1.9 (1.9),2.0 (1.9),<0.001
