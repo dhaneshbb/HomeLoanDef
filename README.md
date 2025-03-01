@@ -33,7 +33,6 @@ The data comprises 7 interconnected CSV files with loan application history, cre
 
 ## Project Structure
 ```
-D:/DATAMITES/HOMELOANDEF
 ├── data/                        # Raw and processed data
 │   ├── 1.1 raw/                # Original CSV files
 │   └── 1.2 processed/          # Cleaned and aggregated data (final_data.csv)
