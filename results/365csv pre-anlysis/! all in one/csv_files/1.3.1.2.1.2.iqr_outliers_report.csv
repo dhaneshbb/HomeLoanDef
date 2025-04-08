@@ -1,3 +1,0 @@
-Column,Q1,Q3,IQR_Range,Lower_Bound,Upper_Bound,Total Distinct Count,Outlier Distinct Count,Outliers with val count,Unique Outliers
-SK_ID_BUREAU,5730933.0,6431951.0,701018.0,4679406.0,7483478.0,817395,0,{},
-MONTHS_BALANCE,-46.0,-11.0,35.0,-98.5,41.5,97,0,{},
