@@ -3,7 +3,15 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 from IPython.display import display
-from scipy.stats import chi2_contingency, fisher_exact, kurtosis, shapiro, skew, kstest, spearmanr
+from scipy.stats import (
+    chi2_contingency,
+    fisher_exact,
+    kstest,
+    kurtosis,
+    shapiro,
+    skew,
+    spearmanr,
+)
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 

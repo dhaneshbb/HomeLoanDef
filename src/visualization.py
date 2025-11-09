@@ -81,6 +81,7 @@ def plot_scatter_df(income_and_loan_cols, age_and_employment_cols, at):
 
 def plot_all_evaluation_metrics(model, X_test, y_test):
     import scikitplot as skplt
+
     y_probs = model.predict_proba(X_test)[:, 1]
     precision, recall, thresholds = precision_recall_curve(y_test, y_probs)
     fpr, tpr, _ = roc_curve(y_test, y_probs)

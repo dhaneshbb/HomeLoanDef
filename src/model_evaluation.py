@@ -10,7 +10,7 @@ from sklearn.metrics import (
     recall_score,
     roc_auc_score,
 )
-from sklearn.model_selection import cross_val_score, StratifiedKFold
+from sklearn.model_selection import StratifiedKFold, cross_val_score
 
 
 def evaluate_model(model, X_train, y_train, X_test, y_test):
