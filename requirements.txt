@@ -1,7 +1,7 @@
 pandas
 tabulate
 IPython
-insightfulpy
+insightfulpy==0.1.7
 numpy
 matplotlib
 seaborn
@@ -13,3 +13,6 @@ xgboost
 lightgbm
 catboost
 scikit-plot
+category_encoders
+joblib
+psutil
